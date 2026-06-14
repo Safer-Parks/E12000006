@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "b45234a198d4_visibility",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 44, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127715764883778, 52.888933238418808 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 45, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127620705432407, 52.889043659573943 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127826337940398, 52.889038242709496 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128031970382282, 52.88903282548943 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128237602758031, 52.889027407913737 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127731278555164, 52.88914866395077 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127936911539223, 52.889143246887436 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128142544457152, 52.889137829468467 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128348177308955, 52.889132411693858 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127636218693887, 52.889259085121473 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127841852220127, 52.88925366821487 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128047485680238, 52.889248250952619 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128253119074224, 52.889242833334741 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127746792424988, 52.889364089471705 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127952426427287, 52.889358672366185 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128158060363463, 52.889353254905053 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128363694233507, 52.889347837088266 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 45, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.127857366698295, 52.889469093709188 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128063001176652, 52.889463676404766 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 45, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 1.128268635588894, 52.889458258744718 ] } }
+]
+}
