@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORHE_36_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bickerdikes Garden Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:30", "Tue": "09:00-17:30", "Wed": "09:00-17:30", "Thu": "09:00-17:30", "Fri": "09:00-17:30", "Sat": "09:00-17:30", "Sun": "10:30-16:30", "index_right": 57, "park_offical_id": "NORHE_36" }, "geometry": { "type": "Point", "coordinates": [ -0.207286477, 51.996346078 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOUTH_13_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chalkwell Esplanade", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 5, "park_offical_id": "SOUTH_13" }, "geometry": { "type": "Point", "coordinates": [ 0.67317009, 51.537780656 ] } },
+{ "type": "Feature", "properties": { "name": "Chalkwell Railway Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "06:00-17:00", "Tue": "06:00-17:00", "Wed": "06:00-17:00", "Thu": "06:00-17:00", "Fri": "06:00-17:00", "Sat": "07:00-16:00", "Sun": "07:30-14:00", "index_right": 5, "park_offical_id": "SOUTH_13" }, "geometry": { "type": "Point", "coordinates": [ 0.67030549, 51.538609809 ] } },
+{ "type": "Feature", "properties": { "name": "Palace Theatre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 5, "park_offical_id": "SOUTH_13" }, "geometry": { "type": "Point", "coordinates": [ 0.691798407, 51.543797024 ] } },
+{ "type": "Feature", "properties": { "name": "Westcliff Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 5, "park_offical_id": "SOUTH_13" }, "geometry": { "type": "Point", "coordinates": [ 0.683616543, 51.545885349 ] } },
+{ "type": "Feature", "properties": { "name": "Chalkwell Park  on London Road by Southbourne Grove", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "08:00-19:00", "Tue": "08:00-19:00", "Wed": "08:00-19:00", "Thu": "08:00-19:00", "Fri": "08:00-19:00", "Sat": "08:00-19:00", "Sun": "08:00-19:00", "index_right": 5, "park_offical_id": "SOUTH_13" }, "geometry": { "type": "Point", "coordinates": [ 0.675144196, 51.545672841 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TENDR_63_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Esplanade Public Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 66, "park_offical_id": "TENDR_63" }, "geometry": { "type": "Point", "coordinates": [ 1.24663962, 51.82889798 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 66, "park_offical_id": "TENDR_63" }, "geometry": { "type": "Point", "coordinates": [ 1.24466244, 51.83222146 ] } },
+{ "type": "Feature", "properties": { "name": "Cambridge Road Public Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 66, "park_offical_id": "TENDR_63" }, "geometry": { "type": "Point", "coordinates": [ 1.25362314, 51.83346686 ] } },
+{ "type": "Feature", "properties": { "name": "Kiosk Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 66, "park_offical_id": "TENDR_63" }, "geometry": { "type": "Point", "coordinates": [ 1.24122646, 51.82378098 ] } }
+]
+}

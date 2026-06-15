@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NORN5_35_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rocket House Toilets Currently Closed  Mar 2025", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 84, "park_offical_id": "NORN5_35" }, "geometry": { "type": "Point", "coordinates": [ 1.30381256, 52.931148121 ] } },
+{ "type": "Feature", "properties": { "name": "Cadogan Road Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 84, "park_offical_id": "NORN5_35" }, "geometry": { "type": "Point", "coordinates": [ 1.294997283, 52.931724517 ] } },
+{ "type": "Feature", "properties": { "name": "Meadow Road Car Park Toilets Cromer", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-16:00", "Tue": "10:00-16:00", "Wed": "10:00-16:00", "Thu": "10:00-16:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "10:00-16:00", "index_right": 84, "park_offical_id": "NORN5_35" }, "geometry": { "type": "Point", "coordinates": [ 1.298060417, 52.930573462 ] } },
+{ "type": "Feature", "properties": { "name": "Morrisons Cromer", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "07:00-21:00", "Tue": "07:00-21:00", "Wed": "07:00-21:00", "Thu": "07:00-21:00", "Fri": "07:00-21:00", "Sat": "07:00-21:00", "Sun": "10:00-16:00", "index_right": 84, "park_offical_id": "NORN5_35" }, "geometry": { "type": "Point", "coordinates": [ 1.292340774, 52.930598447 ] } },
+{ "type": "Feature", "properties": { "name": "Cromer West Promenade Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 84, "park_offical_id": "NORN5_35" }, "geometry": { "type": "Point", "coordinates": [ 1.294612664, 52.933675382 ] } }
+]
+}

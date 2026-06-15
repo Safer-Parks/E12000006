@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TENDR_46_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Princes Esplanade Toilets", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 47, "park_offical_id": "TENDR_46" }, "geometry": { "type": "Point", "coordinates": [ 1.274289183, 51.85032845 ] } },
+{ "type": "Feature", "properties": { "name": "WaltonontheNaze Lifestyle Car Park Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 47, "park_offical_id": "TENDR_46" }, "geometry": { "type": "Point", "coordinates": [ 1.275755171, 51.852411729 ] } },
+{ "type": "Feature", "properties": { "name": "Southcliff Promenade Public Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 47, "park_offical_id": "TENDR_46" }, "geometry": { "type": "Point", "coordinates": [ 1.26676942, 51.8430904 ] } },
+{ "type": "Feature", "properties": { "name": "WaltonontheNaze Station", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 47, "park_offical_id": "TENDR_46" }, "geometry": { "type": "Point", "coordinates": [ 1.267920697, 51.846200691 ] } },
+{ "type": "Feature", "properties": { "name": "The Pier Public Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 47, "park_offical_id": "TENDR_46" }, "geometry": { "type": "Point", "coordinates": [ 1.271227243, 51.847036557 ] } }
+]
+}

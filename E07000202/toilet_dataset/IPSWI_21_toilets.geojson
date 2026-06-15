@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "IPSWI_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 22, "park_offical_id": "IPSWI_21" }, "geometry": { "type": "Point", "coordinates": [ 1.1609111, 52.0495957 ] } },
+{ "type": "Feature", "properties": { "name": "Community centre and cafe ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 22, "park_offical_id": "IPSWI_21" }, "geometry": { "type": "Point", "coordinates": [ 1.181234121, 52.048031915 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 22, "park_offical_id": "IPSWI_21" }, "geometry": { "type": "Point", "coordinates": [ 1.1721633, 52.0460454 ] } }
+]
+}

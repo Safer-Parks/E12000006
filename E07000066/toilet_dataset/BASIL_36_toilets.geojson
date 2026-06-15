@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BASIL_36_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Northlands park ", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 56, "park_offical_id": "BASIL_36" }, "geometry": { "type": "Point", "coordinates": [ 0.496916771, 51.578916413 ] } },
+{ "type": "Feature", "properties": { "name": "BP  MS", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 56, "park_offical_id": "BASIL_36" }, "geometry": { "type": "Point", "coordinates": [ 0.498275757, 51.585365829 ] } }
+]
+}

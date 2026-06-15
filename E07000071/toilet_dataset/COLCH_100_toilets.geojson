@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COLCH_100_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Marks Tey", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "COLCH_100" }, "geometry": { "type": "Point", "coordinates": [ 0.783345532, 51.880951941 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "COLCH_100" }, "geometry": { "type": "Point", "coordinates": [ 0.7825847, 51.8809617 ] } }
+]
+}

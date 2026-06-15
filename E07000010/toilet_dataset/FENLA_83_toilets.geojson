@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "FENLA_83_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 69, "park_offical_id": "FENLA_83" }, "geometry": { "type": "Point", "coordinates": [ 0.1659797, 52.6665412 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 69, "park_offical_id": "FENLA_83" }, "geometry": { "type": "Point", "coordinates": [ 0.1620505, 52.6633429 ] } },
+{ "type": "Feature", "properties": { "name": "Pavilion Tearoom", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 69, "park_offical_id": "FENLA_83" }, "geometry": { "type": "Point", "coordinates": [ 0.165481568, 52.66441905 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 69, "park_offical_id": "FENLA_83" }, "geometry": { "type": "Point", "coordinates": [ 0.1612669, 52.6664127 ] } }
+]
+}

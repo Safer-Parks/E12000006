@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BRECK_240_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "BRECK_240" }, "geometry": { "type": "Point", "coordinates": [ 0.769890547, 52.422497488 ] } },
+{ "type": "Feature", "properties": { "name": "Cage Lane Toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:30-18:00", "Tue": "07:30-18:00", "Wed": "07:30-18:00", "Thu": "07:30-18:00", "Fri": "07:30-18:00", "Sat": "07:30-18:00", "Sun": "07:30-18:00", "index_right": 58, "park_offical_id": "BRECK_240" }, "geometry": { "type": "Point", "coordinates": [ 0.7505304, 52.4127256 ] } },
+{ "type": "Feature", "properties": { "name": "The Red Lion  Wetherspoon ", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-23:00", "Tue": "08:00-23:00", "Wed": "08:00-23:00", "Thu": "08:00-23:00", "Fri": "08:00-00:00", "Sat": "08:00-00:00", "Sun": "08:00-23:00", "index_right": 58, "park_offical_id": "BRECK_240" }, "geometry": { "type": "Point", "coordinates": [ 0.750506389, 52.413450201 ] } },
+{ "type": "Feature", "properties": { "name": "Castle Park  AprilSept", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-19:00", "Tue": "08:00-19:00", "Wed": "08:00-19:00", "Thu": "08:00-19:00", "Fri": "08:00-19:00", "Sat": "08:00-19:00", "Sun": "08:00-19:00", "index_right": 58, "park_offical_id": "BRECK_240" }, "geometry": { "type": "Point", "coordinates": [ 0.75488478, 52.41274912 ] } },
+{ "type": "Feature", "properties": { "name": "BP Garage", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "BRECK_240" }, "geometry": { "type": "Point", "coordinates": [ 0.762715638, 52.420360957 ] } }
+]
+}

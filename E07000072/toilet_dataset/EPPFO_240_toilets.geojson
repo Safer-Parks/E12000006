@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EPPFO_240_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Buckhurst Hill Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "EPPFO_240" }, "geometry": { "type": "Point", "coordinates": [ 0.046867847, 51.626058896 ] } },
+{ "type": "Feature", "properties": { "name": "Queens Road", "payment_info": "20p or RADAR Key", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "EPPFO_240" }, "geometry": { "type": "Point", "coordinates": [ 0.0464498, 51.6252192 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "STEVE_102_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stevenage Indoor Market", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "Closed", "Wed": "08:30-17:30", "Thu": "08:30-17:30", "Fri": "08:30-17:30", "Sat": "08:30-17:30", "Sun": "Closed", "index_right": 4, "park_offical_id": "STEVE_102" }, "geometry": { "type": "Point", "coordinates": [ -0.199819207, 51.901838557 ] } },
+{ "type": "Feature", "properties": { "name": "Town Square", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-16:00", "index_right": 4, "park_offical_id": "STEVE_102" }, "geometry": { "type": "Point", "coordinates": [ -0.2020929, 51.9016689 ] } },
+{ "type": "Feature", "properties": { "name": "Stevenage Bus Station", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "STEVE_102" }, "geometry": { "type": "Point", "coordinates": [ -0.205349922, 51.902103229 ] } },
+{ "type": "Feature", "properties": { "name": "Westgate Shopping Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 4, "park_offical_id": "STEVE_102" }, "geometry": { "type": "Point", "coordinates": [ -0.202762021, 51.902983881 ] } },
+{ "type": "Feature", "properties": { "name": "Stevenage Station", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "STEVE_102" }, "geometry": { "type": "Point", "coordinates": [ -0.2069622, 51.901724 ] } }
+]
+}

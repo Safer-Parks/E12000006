@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GREYA_25_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "GorlestonOnSea", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 18, "park_offical_id": "GREYA_25" }, "geometry": { "type": "Point", "coordinates": [ 1.730586776, 52.566869329 ] } },
+{ "type": "Feature", "properties": { "name": "Pier Walk", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 18, "park_offical_id": "GREYA_25" }, "geometry": { "type": "Point", "coordinates": [ 1.731698513, 52.573865765 ] } },
+{ "type": "Feature", "properties": { "name": "Pier Public Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 18, "park_offical_id": "GREYA_25" }, "geometry": { "type": "Point", "coordinates": [ 1.733565266, 52.570891055 ] } }
+]
+}

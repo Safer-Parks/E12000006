@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CAMBR_347_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 169, "park_offical_id": "CAMBR_347" }, "geometry": { "type": "Point", "coordinates": [ 0.1508258, 52.1776058 ] } },
+{ "type": "Feature", "properties": { "name": "Addenbrookes Hospital Concourse", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 169, "park_offical_id": "CAMBR_347" }, "geometry": { "type": "Point", "coordinates": [ 0.140703321, 52.174668606 ] } },
+{ "type": "Feature", "properties": { "name": "Medical Library", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "08:00-19:45", "Tue": "08:00-19:45", "Wed": "08:00-19:45", "Thu": "08:00-19:45", "Fri": "08:00-19:45", "Sat": "09:00-16:45", "Sun": "Closed", "index_right": 169, "park_offical_id": "CAMBR_347" }, "geometry": { "type": "Point", "coordinates": [ 0.1416058, 52.1759586 ] } }
+]
+}

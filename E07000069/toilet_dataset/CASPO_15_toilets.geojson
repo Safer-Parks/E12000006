@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CASPO_15_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 7, "park_offical_id": "CASPO_15" }, "geometry": { "type": "Point", "coordinates": [ 0.6309261, 51.5485539 ] } },
+{ "type": "Feature", "properties": { "name": "LeighonSea Station  Platform Only ", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "07:00-19:00", "Tue": "07:00-19:00", "Wed": "07:00-19:00", "Thu": "07:00-19:00", "Fri": "07:00-19:00", "Sat": "07:30-19:00", "Sun": "07:30-19:00", "index_right": 7, "park_offical_id": "CASPO_15" }, "geometry": { "type": "Point", "coordinates": [ 0.639392292, 51.541170235 ] } },
+{ "type": "Feature", "properties": { "name": "Leigh Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 7, "park_offical_id": "CASPO_15" }, "geometry": { "type": "Point", "coordinates": [ 0.652005958, 51.542022488 ] } },
+{ "type": "Feature", "properties": { "name": "Leigh On Sea", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 7, "park_offical_id": "CASPO_15" }, "geometry": { "type": "Point", "coordinates": [ 0.653604, 51.542167 ] } },
+{ "type": "Feature", "properties": { "name": "Belfairs Swim Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 7, "park_offical_id": "CASPO_15" }, "geometry": { "type": "Point", "coordinates": [ 0.642136717, 51.549869371 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WELHA_2_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Howard Centre", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:30", "Tue": "09:00-17:30", "Wed": "09:00-17:30", "Thu": "09:00-17:30", "Fri": "09:00-17:30", "Sat": "09:00-17:30", "Sun": "10:00-04:00", "index_right": 24, "park_offical_id": "WELHA_2" }, "geometry": { "type": "Point", "coordinates": [ -0.204435825, 51.801222848 ] } }
+]
+}

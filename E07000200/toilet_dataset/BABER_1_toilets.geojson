@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BABER_1_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Extra Copdock", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 1, "park_offical_id": "BABER_1" }, "geometry": { "type": "Point", "coordinates": [ 1.098914, 52.040196 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_70_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainsbury petrol station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 126, "park_offical_id": "WESSU_70" }, "geometry": { "type": "Point", "coordinates": [ 0.734581947, 52.239617298 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 126, "park_offical_id": "WESSU_70" }, "geometry": { "type": "Point", "coordinates": [ 0.7357185, 52.2366304 ] } },
+{ "type": "Feature", "properties": { "name": "BP Petrol Station", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 126, "park_offical_id": "WESSU_70" }, "geometry": { "type": "Point", "coordinates": [ 0.727940798, 52.23675898 ] } }
+]
+}

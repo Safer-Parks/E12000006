@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "KINLY_50_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 58, "park_offical_id": "KINLY_50" }, "geometry": { "type": "Point", "coordinates": [ 0.3988067, 52.7527113 ] } },
+{ "type": "Feature", "properties": { "name": "Bus Station Toilet", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "KINLY_50" }, "geometry": { "type": "Point", "coordinates": [ 0.398973227, 52.754045174 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "KINLY_50" }, "geometry": { "type": "Point", "coordinates": [ 0.3932216, 52.755984 ] } },
+{ "type": "Feature", "properties": { "name": "Kings Lynn Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "KINLY_50" }, "geometry": { "type": "Point", "coordinates": [ 0.403525236, 52.75380859 ] } }
+]
+}

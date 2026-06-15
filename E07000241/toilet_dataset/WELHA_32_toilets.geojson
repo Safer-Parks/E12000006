@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WELHA_32_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "KFC", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "WELHA_32" }, "geometry": { "type": "Point", "coordinates": [ -0.238168538, 51.76486969 ] } },
+{ "type": "Feature", "properties": { "name": "McDonalds", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "WELHA_32" }, "geometry": { "type": "Point", "coordinates": [ -0.23787339, 51.762897491 ] } },
+{ "type": "Feature", "properties": { "name": "Harpsfield Hall", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "WELHA_32" }, "geometry": { "type": "Point", "coordinates": [ -0.24058871, 51.762523651 ] } },
+{ "type": "Feature", "properties": { "name": "Nandos", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "WELHA_32" }, "geometry": { "type": "Point", "coordinates": [ -0.239285663, 51.762535095 ] } },
+{ "type": "Feature", "properties": { "name": "UH de Havilland campus", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "WELHA_32" }, "geometry": { "type": "Point", "coordinates": [ -0.249957785, 51.760749817 ] } }
+]
+}

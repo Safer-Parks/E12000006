@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TENDR_29_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kings Parade East", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 28, "park_offical_id": "TENDR_29" }, "geometry": { "type": "Point", "coordinates": [ 1.2004065, 51.80287838 ] } },
+{ "type": "Feature", "properties": { "name": "The Gap Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 28, "park_offical_id": "TENDR_29" }, "geometry": { "type": "Point", "coordinates": [ 1.20939342, 51.80679514 ] } }
+]
+}

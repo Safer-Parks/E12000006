@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WATFO_16_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Watford Junction Station", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 8, "park_offical_id": "WATFO_16" }, "geometry": { "type": "Point", "coordinates": [ -0.396519634, 51.66352959 ] } }
+]
+}

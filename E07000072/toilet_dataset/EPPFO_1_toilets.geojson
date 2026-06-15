@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EPPFO_1_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bakers Lane Car Park", "payment_info": "Cost unknown", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "08:30-18:30", "Tue": "08:30-18:30", "Wed": "08:30-18:30", "Thu": "08:30-18:30", "Fri": "08:30-18:30", "Sat": "08:30-18:30", "Sun": "Closed", "index_right": 1, "park_offical_id": "EPPFO_1" }, "geometry": { "type": "Point", "coordinates": [ 0.11070013, 51.700393317 ] } }
+]
+}

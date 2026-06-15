@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUTH_54_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Westcliff Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 44, "park_offical_id": "SOUTH_54" }, "geometry": { "type": "Point", "coordinates": [ 0.683616543, 51.545885349 ] } },
+{ "type": "Feature", "properties": { "name": "Chase Sports Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 44, "park_offical_id": "SOUTH_54" }, "geometry": { "type": "Point", "coordinates": [ 0.68356011, 51.552683842 ] } }
+]
+}

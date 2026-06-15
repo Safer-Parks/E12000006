@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STEVE_29_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "josh kingham", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 26, "park_offical_id": "STEVE_29" }, "geometry": { "type": "Point", "coordinates": [ -0.190074742, 51.884279579 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 26, "park_offical_id": "STEVE_29" }, "geometry": { "type": "Point", "coordinates": [ -0.1783918, 51.901222 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 26, "park_offical_id": "STEVE_29" }, "geometry": { "type": "Point", "coordinates": [ -0.1803977, 51.9035562 ] } }
+]
+}

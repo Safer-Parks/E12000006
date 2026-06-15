@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BRENT_26_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brentwood Train Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 15, "park_offical_id": "BRENT_26" }, "geometry": { "type": "Point", "coordinates": [ 0.30015354, 51.613645781 ] } },
+{ "type": "Feature", "properties": { "name": "Marks  Spencer", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-19:00", "Tue": "08:30-19:00", "Wed": "08:30-19:00", "Thu": "08:30-19:00", "Fri": "08:00-19:00", "Sat": "08:00-19:00", "Sun": "10:00-16:00", "index_right": 15, "park_offical_id": "BRENT_26" }, "geometry": { "type": "Point", "coordinates": [ 0.303344474, 51.620959155 ] } },
+{ "type": "Feature", "properties": { "name": "The Baytree Shopping Centre", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-17:30", "Tue": "08:30-17:30", "Wed": "08:30-17:30", "Thu": "08:30-17:30", "Fri": "08:30-17:30", "Sat": "08:30-17:30", "Sun": "10:00-16:00", "index_right": 15, "park_offical_id": "BRENT_26" }, "geometry": { "type": "Point", "coordinates": [ 0.302199801, 51.618857608 ] } }
+]
+}

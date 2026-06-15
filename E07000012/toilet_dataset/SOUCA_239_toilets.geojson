@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_239_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Morrisons", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 41, "park_offical_id": "SOUCA_239" }, "geometry": { "type": "Point", "coordinates": [ -0.06904006, 52.21893993 ] } },
+{ "type": "Feature", "properties": { "name": "Cambourne library ", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 41, "park_offical_id": "SOUCA_239" }, "geometry": { "type": "Point", "coordinates": [ -0.066154003, 52.218736161 ] } },
+{ "type": "Feature", "properties": { "name": "The Hub", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 41, "park_offical_id": "SOUCA_239" }, "geometry": { "type": "Point", "coordinates": [ -0.064169168, 52.218644145 ] } }
+]
+}

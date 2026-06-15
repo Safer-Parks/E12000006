@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_15_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Corn Exchange", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "HUNTI_15" }, "geometry": { "type": "Point", "coordinates": [ -0.073331594, 52.323528975 ] } },
+{ "type": "Feature", "properties": { "name": "East Street", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "HUNTI_15" }, "geometry": { "type": "Point", "coordinates": [ -0.075477551, 52.325761991 ] } },
+{ "type": "Feature", "properties": { "name": "Townrow Dept store", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 38, "park_offical_id": "HUNTI_15" }, "geometry": { "type": "Point", "coordinates": [ -0.074592233, 52.323571599 ] } },
+{ "type": "Feature", "properties": { "name": "River Tea Rooms", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 38, "park_offical_id": "HUNTI_15" }, "geometry": { "type": "Point", "coordinates": [ -0.075080395, 52.323043719 ] } }
+]
+}
