@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "King's Lynn and West Norfolk_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2587688143, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5018143, 52.717964 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5523262300, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3786636, 52.7319153 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5523262301, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3791074, 52.7314119 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5801394426, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.2734418, 52.6804053 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6913091574, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5496624, 52.7682158 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9662868426, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4130745, 52.7235371 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9662868427, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4130918, 52.7232123 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11144909961, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4158832, 52.7358248 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11144909962, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4161845, 52.7357731 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12396043964, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3929797, 52.7533362 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13418210956, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3895305, 52.5597523 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929649, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.432986, 52.7493521 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929650, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.433224, 52.7492149 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929651, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4337376, 52.749135 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929652, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4334735, 52.7492316 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929653, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4340917, 52.7491674 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929654, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.434425, 52.7491983 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929655, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4346288, 52.749301 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929656, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4348528, 52.7492344 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13911929657, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4340789, 52.7493569 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13912010082, "authority": "King's Lynn and West Norfolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.4308628, 52.7504606 ] } }
+]
+}

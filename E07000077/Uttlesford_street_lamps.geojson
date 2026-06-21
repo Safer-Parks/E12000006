@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Uttlesford_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8140324792, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.2583507, 51.8855882 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8140324793, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.2587074, 51.8863755 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8140324794, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.2591684, 51.8861206 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8140357318, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.2690152, 51.8927545 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8710977145, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1893462, 51.9080424 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9092570148, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.2688729, 51.8920167 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11143851787, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3138846, 52.0543934 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11143851789, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.313898, 52.0532089 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11883027574, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3391522, 51.8661952 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11883027575, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3394407, 51.8661704 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11883027576, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3388547, 51.8661614 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11883027577, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3386023, 51.866074 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11883027578, "authority": "Uttlesford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.3385226, 51.8661348 ] } }
+]
+}

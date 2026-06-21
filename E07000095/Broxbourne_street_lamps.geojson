@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "Broxbourne_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5337312368, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0521549, 51.6834761 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5337312376, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0530813, 51.683394 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5337312404, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0516618, 51.6835497 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5337312405, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0526264, 51.6834302 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916591245, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0277655, 51.7246808 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916591246, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0277613, 51.7245439 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916591257, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0277122, 51.7243348 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916591258, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0276278, 51.7244144 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634028, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0336888, 51.7253312 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634029, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0338103, 51.7256108 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634030, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0339536, 51.7258874 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634031, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0340594, 51.7260532 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634032, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0342738, 51.7262835 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634033, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0336181, 51.7250423 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634034, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0335531, 51.7247622 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634035, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0335418, 51.7244821 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634036, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0335243, 51.724189 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634037, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.03352, 51.7237553 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634044, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0335362, 51.7232825 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10916634045, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0335566, 51.7228228 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11278731130, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0492944, 51.684269 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11278731143, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0485079, 51.6847883 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11278731144, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0487636, 51.6846117 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11278731145, "authority": "Broxbourne", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0490181, 51.6844314 ] } }
+]
+}

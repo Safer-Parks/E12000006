@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Castle Point_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11134950516, "authority": "Castle Point", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.568905, 51.521355 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11134950517, "authority": "Castle Point", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5685508, 51.5213773 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11134950518, "authority": "Castle Point", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5681783, 51.5214091 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11134950523, "authority": "Castle Point", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5691818, 51.5212424 ] } }
+]
+}

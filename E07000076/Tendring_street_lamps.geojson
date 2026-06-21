@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "Tendring_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863121, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1621274, 51.8175368 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863124, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1618726, 51.8173279 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863125, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1622481, 51.8173088 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863126, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1625914, 51.8171753 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863127, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1631047, 51.81695 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863128, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1634457, 51.8166464 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863129, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1638628, 51.8164661 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863130, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1642581, 51.8163501 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6774863131, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1647207, 51.8162287 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662696, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.060527, 51.8554745 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662697, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0610599, 51.855571 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662698, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0614817, 51.8556247 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662699, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0618456, 51.8555252 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662700, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0618049, 51.8556835 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662701, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0609499, 51.856712 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662702, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0590399, 51.8577209 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662703, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0587898, 51.8580226 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662704, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0591412, 51.8582241 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662705, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0595759, 51.8582862 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662706, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0598471, 51.8583569 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6845662707, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0602304, 51.8584753 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9325416936, "authority": "Tendring", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1549917, 51.8075425 ] } }
+]
+}

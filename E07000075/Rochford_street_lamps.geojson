@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rochford_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11199293797, "authority": "Rochford", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.6696308, 51.5907499 ] } }
+]
+}

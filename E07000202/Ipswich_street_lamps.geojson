@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "Ipswich_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125789, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.159746, 52.0469399 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125790, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1593281, 52.0469689 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125791, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1588668, 52.0469351 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125792, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1584658, 52.0470646 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125793, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1576692, 52.047053 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125794, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1574036, 52.0472831 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125795, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1570067, 52.0473351 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125796, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1573084, 52.0469532 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125797, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1569182, 52.0469285 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125798, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1568323, 52.0470563 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4076125799, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1567318, 52.0472229 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11534648378, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1155817, 52.0463494 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11534648379, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1158516, 52.0461273 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11534648380, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1158955, 52.0457984 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11534648381, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1169184, 52.0456485 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11534648382, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1160571, 52.0454779 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11534648383, "authority": "Ipswich", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.116499, 52.0455856 ] } }
+]
+}

@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Huntingdonshire_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 7991970644, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1736047, 52.1751221 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 7991970655, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1736034, 52.1751213 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9652806145, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0764268, 52.4038818 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9802822349, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.194396, 52.3402776 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9809306152, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1905469, 52.3289353 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9816106449, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0810484, 52.3164666 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9816501271, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.2472985, 52.2275335 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9816501272, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.2479275, 52.2275119 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11669569187, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.0723889, 52.3233427 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11694719539, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1601501, 52.308897 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11694719540, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1595186, 52.3092154 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11694719541, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1600529, 52.3096941 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11694719542, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1607717, 52.3094551 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11694719543, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.160881, 52.3086531 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11694719544, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1614021, 52.309135 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11742339780, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.192469, 52.3297868 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12962220175, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.4146391, 52.5789444 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13928422221, "authority": "Huntingdonshire", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.1803031, 52.34795 ] } }
+]
+}

@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Great Yarmouth_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9889098789, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.6827294, 52.676417 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12222545169, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7309633, 52.5714581 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12222545170, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7312053, 52.5715001 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095604, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7209133, 52.6585188 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095609, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7217663, 52.658906 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095616, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7225307, 52.6587661 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095621, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.722587, 52.6587124 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095622, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7226648, 52.6585643 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095625, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.722351, 52.6585432 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095626, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7218924, 52.6584423 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095627, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7221016, 52.6582666 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095629, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7222974, 52.6579558 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12854095630, "authority": "Great Yarmouth", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.7225897, 52.6576321 ] } }
+]
+}

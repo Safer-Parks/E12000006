@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "Mid Suffolk_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4420113309, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.0636662, 52.1472426 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4428834047, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.064616, 52.1467666 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11505944138, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9440254, 52.2998967 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12002386586, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9717804, 52.1986297 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12002386587, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.971358, 52.1988204 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12002386589, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9711421, 52.1989904 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756714, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9721284, 52.1984333 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756715, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9730052, 52.1984684 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756716, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9728129, 52.1983192 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756717, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9724595, 52.1980413 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756718, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9727935, 52.198121 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756719, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.972477, 52.1983256 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756720, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9714485, 52.1979022 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756721, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9717633, 52.1979298 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756722, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9720942, 52.1976642 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12062756723, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9721749, 52.1978708 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13609300285, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1478674, 52.3613851 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13609300286, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1481625, 52.3615186 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13609300287, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1497597, 52.3618298 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13609300291, "authority": "Mid Suffolk", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.1504028, 52.3618552 ] } }
+]
+}
