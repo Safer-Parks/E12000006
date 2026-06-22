@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "PETER_108_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Sutton Crossways","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3788184,52.577154],[-0.3781541,52.5771453]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Church Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3883141,52.5747695],[-0.3887197,52.5748754],[-0.3894835,52.5751616],[-0.3901283,52.575383],[-0.3903861,52.5754563],[-0.3906146,52.5754601],[-0.391404,52.5753432]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3856806,52.5754414],[-0.386203,52.5758006]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.380927,52.5744994],[-0.3808555,52.5744909],[-0.3802279,52.574479]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3835459,52.5742604],[-0.3836771,52.5742287],[-0.3837685,52.5742788]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Lover's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3838815,52.5743507],[-0.3847092,52.5752128],[-0.3851421,52.5756344]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3837685,52.5742788],[-0.3838815,52.5743507]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3802279,52.574479],[-0.3799051,52.5744912],[-0.3796674,52.5745012],[-0.3795174,52.5745071],[-0.3787116,52.5745112],[-0.3785668,52.5745601]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.379958,52.5762132],[-0.3798563,52.5756706],[-0.3798153,52.5753063],[-0.3797785,52.5750615],[-0.3796674,52.5745012]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3785668,52.5745601],[-0.3781672,52.5745796],[-0.3777246,52.5745698],[-0.3771157,52.5745454],[-0.3757477,52.5744851],[-0.3756311,52.5744557]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3856806,52.5754414],[-0.3864173,52.575209]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3779095,52.5775466],[-0.3781541,52.5771453]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Sutton Crossways","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3781541,52.5771453],[-0.3781444,52.5770817],[-0.3773707,52.576804],[-0.3761364,52.576598],[-0.3749632,52.5764382],[-0.3735792,52.5763626],[-0.3718867,52.5762573],[-0.370663,52.5762088],[-0.3694961,52.5762179],[-0.3691092,52.5761937],[-0.3687753,52.5761096],[-0.3683046,52.5761268],[-0.367837,52.5761602],[-0.3675598,52.5761577],[-0.3671112,52.576122],[-0.366835,52.5760983],[-0.3667222,52.5761115],[-0.3666185,52.5761237]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.386489,52.5765805],[-0.3863814,52.5764459],[-0.3861919,52.5762089],[-0.3861168,52.5761356],[-0.3860538,52.5761152],[-0.3859934,52.576103],[-0.3859357,52.576103],[-0.3858834,52.5761111],[-0.3856581,52.5761828],[-0.3854597,52.576222]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3756311,52.5744557],[-0.3758787,52.5741312]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3836771,52.5742287],[-0.3836476,52.57419],[-0.3836004,52.5741279]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3871101,52.5771714],[-0.3872159,52.5771538],[-0.3882969,52.5768571],[-0.3883586,52.5768229],[-0.3883854,52.5767642],[-0.3883586,52.5766909],[-0.3878543,52.5760862],[-0.3876666,52.5758987],[-0.3875029,52.5758107],[-0.3872857,52.5757651],[-0.386996,52.5757504],[-0.3868726,52.5757602],[-0.3865239,52.5758107],[-0.3863397,52.5758644]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3837685,52.5742788],[-0.3837841,52.5742719],[-0.3837922,52.5742688]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3855958,52.5767338],[-0.386261,52.5765512],[-0.3863388,52.576543],[-0.3864193,52.5765512],[-0.386489,52.5765805],[-0.3865212,52.5766213],[-0.3867089,52.5768723],[-0.3870761,52.5772593]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3870761,52.5772593],[-0.3875638,52.5776708],[-0.3881872,52.5781657],[-0.3888304,52.5785256],[-0.3893657,52.5788578]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3893657,52.5788578],[-0.3903983,52.5795531]]]}}
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "SOUTH_22_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7451687,51.5522018],[0.7467357,51.5533437],[0.7471057,51.5536505],[0.7474363,51.5539247],[0.7473934,51.5542182],[0.7476369,51.5548513],[0.7478483,51.5552055],[0.74808,51.5553015],[0.7498467,51.5551772]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7431536,51.5509094],[0.7432615,51.5508766],[0.7433193,51.5508961],[0.7433795,51.550943],[0.7435098,51.5510291],[0.7437375,51.551067],[0.7439472,51.5511944]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7546697,51.5442812],[0.7545959,51.5443901],[0.7544021,51.5447877],[0.7541541,51.5452029],[0.7537651,51.5456008],[0.7523918,51.5463881],[0.7509434,51.5471821],[0.7504615,51.5474499],[0.7499574,51.54773],[0.7493072,51.5480914],[0.7489615,51.5482834],[0.7484221,51.5485832],[0.7460403,51.5499108],[0.7445276,51.5507047],[0.7437375,51.551067]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7441732,51.5513553],[0.7442453,51.5513953]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7439472,51.5511944],[0.7441732,51.5513553]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7473878,51.5426347],[0.7474159,51.5425457],[0.7475452,51.5421645],[0.7475701,51.5420909],[0.7481924,51.541844]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Rebels Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7442453,51.5513953],[0.7446828,51.551674],[0.7447716,51.5517491],[0.7448231,51.5518672],[0.7448515,51.5519412],[0.7449147,51.5520167],[0.745103,51.5521539]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Rebels Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.745103,51.5521539],[0.7451353,51.5521776],[0.7451687,51.5522018]]]}}
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "PETER_120_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2658753,52.651214],[-0.2661671,52.6512619],[-0.2662115,52.6512701],[-0.2663299,52.6512913]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Maxey Cut Footpath","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2775418,52.6511439],[-0.2773165,52.6511256],[-0.2771432,52.6511134],[-0.2682812,52.6515587],[-0.2679267,52.6515496],[-0.2676322,52.6515223],[-0.2675271,52.651503],[-0.2669164,52.6513911],[-0.2663299,52.6512913]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2671253,52.6516011],[-0.2673765,52.651562],[-0.2674578,52.651544],[-0.2675271,52.651503]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2677625,52.6533189],[-0.2690962,52.6532499],[-0.2693707,52.6532468],[-0.2755664,52.6529403],[-0.2786898,52.6527796],[-0.2789146,52.6527681]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2742305,52.6470634],[-0.2743353,52.6470267]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2747121,52.6476025],[-0.274383,52.6477094],[-0.2742415,52.6477696]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "PETER_43_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Lincoln Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3017881,52.6482259],[-0.301831,52.6480633],[-0.3018557,52.6478001],[-0.301851,52.6471868],[-0.3018134,52.6466302],[-0.301796,52.6462754],[-0.3017504,52.6459264],[-0.3016564,52.6454505],[-0.3015638,52.6451166],[-0.3014735,52.6447681],[-0.3014619,52.6446872],[-0.3014064,52.6442994],[-0.3013394,52.643401],[-0.301283,52.6431064],[-0.3012106,52.642833],[-0.3010953,52.6425929],[-0.3009397,52.6423081],[-0.3007344,52.6420098],[-0.3001613,52.6413543]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2926815,52.6455332],[-0.2927641,52.645565],[-0.2928454,52.6455869]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2928454,52.6455869],[-0.2930042,52.6456343]]]}}
+]
+}

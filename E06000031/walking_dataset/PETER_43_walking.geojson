@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "PETER_43_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2937241,52.6420463],[-0.291036,52.6421033],[-0.2858128,52.6433598],[-0.2855696,52.6428965],[-0.2853837,52.6429327],[-0.2768044,52.6444176],[-0.2759426,52.6446108],[-0.2759028,52.6446169],[-0.2752832,52.6447121]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3010953,52.6425929],[-0.3010459,52.6425852],[-0.3008044,52.6426121],[-0.2999954,52.6428186],[-0.2986569,52.6431241],[-0.2967901,52.6436709],[-0.296093,52.6438931],[-0.2946658,52.644348],[-0.2939706,52.6446389],[-0.2934262,52.6450197],[-0.2930779,52.6452984],[-0.2927641,52.645565],[-0.2926796,52.645596]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.296093,52.6438931],[-0.2953526,52.6436093],[-0.294129,52.6429163]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2940589,52.6428766],[-0.2939693,52.6428259]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.294129,52.6429163],[-0.2940589,52.6428766]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2926815,52.6455332],[-0.2927641,52.645565],[-0.2928454,52.6455869]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2928454,52.6455869],[-0.2930042,52.6456343]]]}}
+]
+}
