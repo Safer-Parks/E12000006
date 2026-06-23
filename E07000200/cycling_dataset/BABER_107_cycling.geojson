@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BABER_107_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2184015,51.9785732],[1.2185259,51.9788964],[1.2183118,51.979126],[1.2245435,51.983105],[1.2249165,51.9829558],[1.2270923,51.9840437],[1.2288001,51.984896]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2264925,51.9864792],[1.2268478,51.9865353],[1.2273279,51.9865667],[1.2281992,51.9867937],[1.2289934,51.9868295],[1.229943,51.9867913],[1.2308215,51.9868809],[1.2327871,51.9868908],[1.233629,51.9868026],[1.234138,51.9866972],[1.234535,51.9865931],[1.2346262,51.9865254],[1.234653,51.9863916],[1.2345806,51.9860249],[1.2346262,51.9856929],[1.2347871,51.985346],[1.2349955,51.9851303]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2245435,51.983105],[1.2227656,51.9842127],[1.2225724,51.9843977],[1.222272,51.9845299],[1.2213923,51.9850915],[1.2207807,51.9853492],[1.2203516,51.98564],[1.2179168,51.986761]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2289641,51.9849446],[1.2289774,51.9855145],[1.2288916,51.9859605],[1.2289934,51.9868295]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2350512,51.9850054],[1.2347785,51.9849267],[1.2340542,51.9848427],[1.2337219,51.9838823],[1.2332361,51.9836251],[1.23258,51.9835464],[1.2315403,51.9835936],[1.2313869,51.9835727]]]}}
+]
+}

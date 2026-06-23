@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "STALB_42_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.378187,51.8237276],[-0.3778264,51.8229887],[-0.3775692,51.8224179],[-0.3774512,51.8221592],[-0.3773399,51.8218886],[-0.3772692,51.8219059]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3876228,51.8321071],[-0.3875936,51.8319299],[-0.3875152,51.8316202]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3863155,51.8321567],[-0.3861753,51.8321291],[-0.3856514,51.8320261]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3858844,51.8317288],[-0.3859455,51.8318322],[-0.3860537,51.8320062],[-0.3861753,51.8321291]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3855831,51.82767],[-0.3855179,51.8276254],[-0.3854924,51.8275582],[-0.3855253,51.8275236]]]}}
+]
+}

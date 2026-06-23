@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_837_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.670908,52.2842579],[0.6709428,52.2842707],[0.6716414,52.2845277]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6716414,52.2845277],[0.6716714,52.284509],[0.6717485,52.2844927],[0.6718017,52.2845039],[0.6718508,52.2845245],[0.6718662,52.2845562],[0.6718424,52.2845999],[0.6718116,52.2846257],[0.6717485,52.2846334],[0.671684,52.2846291],[0.6716433,52.2846068],[0.6716251,52.2845716],[0.6716414,52.2845277]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6718424,52.2845999],[0.672256,52.2847526]]]}}
+]
+}

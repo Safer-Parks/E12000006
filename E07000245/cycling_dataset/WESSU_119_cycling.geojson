@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_119_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4603094,52.143823],[0.4602368,52.1441988],[0.4600857,52.1447979],[0.4598803,52.1456921],[0.4597516,52.1464031],[0.4596872,52.1467095],[0.4596121,52.14684],[0.4595155,52.1469042]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4525914,52.1396384],[0.452633,52.1394674],[0.4526383,52.1394025]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4595155,52.1469042],[0.4586685,52.1472535],[0.4583192,52.1473883]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4624254,52.1418806],[0.4624531,52.1418444],[0.4624826,52.1418049],[0.4626676,52.1416156],[0.4637754,52.140409]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4624826,52.1418049],[0.4624021,52.1417687],[0.4621848,52.1416963]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4559153,52.1310515],[0.4558783,52.1312243],[0.4558778,52.1313005],[0.4559291,52.1313994],[0.4559539,52.1315158],[0.4561005,52.1322171],[0.4561661,52.1324456],[0.4563246,52.1326531],[0.4565185,52.1328777],[0.4565367,52.1329626],[0.4564957,52.1335276],[0.45656,52.1338437],[0.4567103,52.1341993],[0.4567317,52.1343936],[0.4567299,52.1344615]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4647616,52.1395914],[0.4641674,52.1393885],[0.4636555,52.1392101],[0.4625906,52.1388591],[0.4614467,52.1384692]]]}}
+]
+}

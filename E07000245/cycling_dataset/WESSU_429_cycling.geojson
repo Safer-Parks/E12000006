@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_429_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Folly Road","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5032552,52.354356],[0.5032182,52.3543957],[0.5031851,52.3544307]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.505426,52.3520987],[0.504483,52.351821],[0.5040922,52.351686],[0.5038647,52.3515314]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5041038,52.3534716],[0.5034382,52.3533527],[0.5027033,52.3532265],[0.5016491,52.3530611],[0.5014265,52.3530332],[0.5012119,52.352966],[0.5010296,52.3527268],[0.500882,52.3526449]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5009906,52.3500197],[0.501088,52.3496538]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4959815,52.3558056],[0.4959585,52.3557431],[0.4959534,52.3557024],[0.4959756,52.3556586],[0.49602,52.3556305],[0.496074,52.3556158]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4900068,52.3572343],[0.4900142,52.3572154],[0.4900406,52.3571984],[0.4900843,52.3571887],[0.4902258,52.3571855]]]}}
+]
+}

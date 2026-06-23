@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "KINLY_61_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3847059,52.7451288],[0.3843894,52.7465101],[0.3842926,52.7469324],[0.3841346,52.7475186],[0.3837451,52.7483193],[0.3829448,52.7501799],[0.3829642,52.7502656],[0.3830007,52.750291],[0.3830567,52.7503176],[0.3831562,52.7503292],[0.3832729,52.7503243],[0.3832956,52.7503601]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3791414,52.7671512],[0.3792702,52.7670213],[0.3802056,52.7592397],[0.3802873,52.7587258],[0.3803642,52.7581645],[0.3803316,52.7581127]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3898282,52.7525339],[0.3897091,52.7527402],[0.3897075,52.7527611],[0.3897411,52.7527887],[0.3897472,52.7528014]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3879437,52.7570145],[0.3878748,52.7570662],[0.3878533,52.7571441],[0.387789,52.7573811]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3898848,52.7524642],[0.3898416,52.7523934],[0.3898135,52.7523537]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3898135,52.7523537],[0.3897867,52.752322],[0.3895681,52.7521832],[0.3894567,52.752111],[0.3893857,52.7520769],[0.3892972,52.752059],[0.3891791,52.7520549],[0.3889632,52.7520403],[0.388809,52.7520192],[0.3886279,52.7519868],[0.3884737,52.7519738],[0.3883516,52.7519654]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.388294,52.7500037],[0.388353,52.7499509],[0.3884093,52.7498835],[0.3884388,52.7498145],[0.3884308,52.7497285],[0.3883852,52.7496595],[0.3883114,52.7496051],[0.3882256,52.749545],[0.3882109,52.749515]]]}}
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "KINLY_124_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.24006,52.5728786],[0.2413582,52.5730872],[0.2415513,52.5729764],[0.2416842,52.571544]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "KINLY_14_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.47129,52.7438327],[0.4717262,52.7415357],[0.472151,52.7388171],[0.4721567,52.7387811],[0.4721629,52.7387408],[0.4723271,52.7376903],[0.472924,52.7371423]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.472151,52.7388171],[0.4721796,52.7387811],[0.4721629,52.7387408]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.472151,52.7388171],[0.4721353,52.7387803],[0.4721629,52.7387408]]]}}
+]
+}

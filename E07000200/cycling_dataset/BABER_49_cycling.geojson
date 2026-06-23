@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BABER_49_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.108533,51.990134],[1.1078147,51.9900731],[1.1070009,51.9900547],[1.1058781,51.989959],[1.1043661,51.9896145],[1.1030519,51.9890276],[1.1025301,51.9889023],[1.1024102,51.9888819],[1.1020179,51.9888151],[1.1016498,51.9887314],[1.1015144,51.9885172],[1.1011755,51.9879641],[1.1007592,51.9874288],[1.1004207,51.9867892],[1.1002576,51.9865906],[1.1002449,51.9865587],[1.1000812,51.986542],[1.099872,51.9865552],[1.0979901,51.9867568],[1.0973965,51.9868119]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.105172,51.9912675],[1.1052552,51.9911024]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0979901,51.9867568],[1.0979856,51.9867297],[1.0979824,51.9866584],[1.0979851,51.9865518],[1.0979958,51.9863809]]]}}
+]
+}

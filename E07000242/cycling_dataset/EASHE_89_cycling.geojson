@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "EASHE_89_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.099845,51.8516998],[0.1000405,51.8516031],[0.1047233,51.8495945]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.099429,51.8578266],[0.0984287,51.8583602],[0.0983855,51.8583832],[0.0978051,51.858627],[0.0977311,51.8586581],[0.0971359,51.8589528],[0.0968886,51.8590452],[0.0964502,51.8591911],[0.0956473,51.8594749],[0.0955513,51.8595088]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1022337,51.8559235],[0.1021609,51.8557328],[0.1020801,51.8553772],[0.1020727,51.8553236]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.104155,51.8552996],[0.103455,51.8551263]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1003817,51.8558819],[0.1001725,51.8558604],[0.1000008,51.8558057],[0.0998506,51.8557394],[0.0997192,51.8556864],[0.0995154,51.8556599],[0.0992805,51.8556082]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1054387,51.8604337],[0.1054446,51.8604555],[0.105699,51.8604291],[0.1056926,51.8604057]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1065997,51.850666],[0.1069051,51.8505703],[0.1071058,51.850541],[0.1073659,51.8505415],[0.1076419,51.8504975],[0.1079078,51.8504698],[0.1080937,51.8504397],[0.1082944,51.8503643],[0.1089548,51.8504682]]]}}
+]
+}

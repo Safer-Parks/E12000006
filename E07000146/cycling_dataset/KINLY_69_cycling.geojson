@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "KINLY_69_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Greens Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2961606,52.7462022],[0.3014181,52.7463292]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3029212,52.7429223],[0.3014541,52.7462476]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Greens Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3014181,52.7463292],[0.3039915,52.7463756],[0.3062958,52.7464087]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2959296,52.74709],[0.2963094,52.7471174],[0.2981869,52.7471401],[0.2988517,52.7471012],[0.2989594,52.7470947],[0.2995061,52.7470513],[0.2995972,52.7470188],[0.2997748,52.746942],[0.2998279,52.746876],[0.2998333,52.7467233]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3014541,52.7462476],[0.3014181,52.7463292]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3010203,52.7483959],[0.3010196,52.7484528]]]}}
+]
+}

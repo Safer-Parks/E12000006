@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_315_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4494361,52.1279089],[0.4498017,52.1279275],[0.4499005,52.1279392]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4499222,52.1294688],[0.4498252,52.1294542],[0.4497153,52.1294212],[0.4496187,52.1293834],[0.4495195,52.1293488],[0.4494417,52.129329],[0.4493961,52.1292961],[0.4493827,52.1292599],[0.4493719,52.1292237]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4479772,52.1289211],[0.4480406,52.1289862],[0.4481027,52.1290026],[0.448216,52.1289996],[0.4482708,52.1289802],[0.4482863,52.1289788],[0.4483135,52.1289764],[0.448579,52.1290123],[0.4490447,52.1290541]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.448071,52.1287618],[0.4481965,52.1288336],[0.4482513,52.1288972],[0.4482863,52.1289788]]]}}
+]
+}

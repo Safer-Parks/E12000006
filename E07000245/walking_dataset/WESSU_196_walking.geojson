@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_196_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7478565,52.2565494],[0.7481217,52.256308],[0.7482916,52.2560858],[0.7490296,52.2548721],[0.7492404,52.2547448],[0.7495453,52.2547537],[0.7522959,52.2552365],[0.7538324,52.2554599],[0.7573566,52.2560362],[0.7580985,52.2562346],[0.7609819,52.2567931]]]}}
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "KINLY_71_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Lime Kiln Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5106138,52.5728392],[0.510681,52.5728805],[0.5107315,52.5729244],[0.5107851,52.5729855]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Lime Kiln Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5107851,52.5729855],[0.5108629,52.5731118],[0.511041,52.5734447],[0.5110436,52.5735338],[0.5109973,52.5736525],[0.5110205,52.5737493],[0.511149,52.5740461]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5077771,52.5773081],[0.5077607,52.5774714],[0.5077384,52.5776195],[0.507761,52.5778191]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5089852,52.5710493],[0.5089535,52.5710607],[0.5088838,52.571059],[0.5088516,52.5710411],[0.5088141,52.5710069],[0.5086907,52.5708243],[0.5086934,52.5707868],[0.5087175,52.5707509]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5143256,52.5702486],[0.5142435,52.5702346],[0.5140502,52.5702418]]]}}
+]
+}

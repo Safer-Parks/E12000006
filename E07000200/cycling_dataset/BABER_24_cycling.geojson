@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BABER_24_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Mill Lane","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1014983,52.0759175],[1.1010974,52.0759549],[1.1006181,52.0760316]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ravens Lane","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0986805,52.0765066],[1.0991758,52.0763509],[1.0994163,52.0762764]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0942401,52.0794149],[1.0949343,52.0796792],[1.0969186,52.0804783],[1.0969294,52.0804825],[1.0982207,52.0810676],[1.0987182,52.0813177],[1.0993009,52.0815154],[1.099577,52.0815889],[1.0997793,52.0816411]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0991465,52.0735061],[1.0990848,52.0733896],[1.0989312,52.0732579],[1.0988588,52.0730294],[1.0984134,52.0723871],[1.0983058,52.072232],[1.0977281,52.0714054],[1.0977176,52.0713906]]]}}
+]
+}

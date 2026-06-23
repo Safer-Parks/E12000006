@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORN5_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1575742,52.9159073],[1.1578041,52.9159419],[1.1584689,52.9160258],[1.1585011,52.9160045],[1.158696,52.9160208],[1.1593405,52.9160927],[1.1603768,52.9161921],[1.1604496,52.9162128],[1.1605023,52.9162498],[1.1605211,52.9162716],[1.1605951,52.9163575],[1.1606861,52.916399]]]}}
+]
+}

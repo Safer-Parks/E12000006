@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRECK_50_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7841723,52.422997],[0.7839931,52.4225824],[0.7835891,52.4215897],[0.783535,52.4214643]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7844991,52.4231126],[0.7844576,52.4230873],[0.7843852,52.4230611],[0.7843463,52.4230374],[0.7842779,52.4230096],[0.7841723,52.422997]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.783535,52.4214643],[0.7835148,52.4213898],[0.7835148,52.421342],[0.7835249,52.4213068],[0.7835584,52.4212847],[0.7835986,52.4212696],[0.7836503,52.4212606],[0.7836711,52.4212671],[0.7836749,52.4212776]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.780069,52.4238288],[0.7801499,52.4239935],[0.7802171,52.4242012],[0.7804547,52.4247524],[0.7811038,52.4259594],[0.7817132,52.4270304],[0.7819388,52.4274329],[0.7821748,52.4278158],[0.7824001,52.4281069],[0.7827005,52.4284405],[0.7832101,52.4289868],[0.7839021,52.4296933],[0.7845351,52.4303506],[0.7851631,52.4310327],[0.7852942,52.4311846],[0.7854337,52.4313367]]]}}
+]
+}

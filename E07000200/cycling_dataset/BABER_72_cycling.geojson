@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BABER_72_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9920741,51.9918104],[0.9916663,51.9914905],[0.9909733,51.9908946],[0.9907748,51.9906543],[0.9905955,51.9904716],[0.9901508,51.9900233],[0.989895,51.9897599],[0.9897029,51.989563],[0.9895742,51.9895052],[0.9890753,51.9893532],[0.9884316,51.9891567],[0.9878388,51.9889882],[0.9872246,51.9887883],[0.9865996,51.9885918],[0.9859908,51.9883969],[0.9852988,51.9881673]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0071613,51.9969624],[1.006433,51.996904],[1.0035654,51.9968503],[1.000436,51.9967873],[0.9990775,51.9954369]]]}}
+]
+}

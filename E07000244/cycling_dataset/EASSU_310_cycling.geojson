@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASSU_310_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.6196705,52.4355469],[1.6197691,52.4356108],[1.6197606,52.4358463],[1.6196833,52.4364637],[1.6195803,52.4370341],[1.6194602,52.4377091],[1.6194258,52.4381434],[1.6204822,52.4382909],[1.6214258,52.438502],[1.6224439,52.4387647],[1.6232024,52.4389805],[1.6240607,52.4391532],[1.6249104,52.4392421],[1.6256743,52.4392945],[1.6265521,52.4393271]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.6064611,52.4327796],[1.6068085,52.4327688],[1.6076413,52.4328989],[1.6123765,52.4327838]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.6196722,52.4353496],[1.6196705,52.4355469]]]}}
+]
+}

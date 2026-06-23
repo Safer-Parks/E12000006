@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASHE_9_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0640449,51.8474159],[0.0639585,51.8473487],[0.0637976,51.8471731],[0.0636688,51.8470654],[0.0633825,51.8468733]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0740334,51.8485637],[0.0739745,51.8485275]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0633851,51.8472271],[0.063253,51.8472759]]]}}
+]
+}

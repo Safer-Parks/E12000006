@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "EASHE_116_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1092245,51.8854051],[0.1092945,51.8853657],[0.1094441,51.8853241],[0.1116582,51.8850075],[0.1149033,51.884525]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1270063,51.8817733],[0.1272653,51.8805974],[0.1274099,51.8804595],[0.1279622,51.8800192],[0.1283084,51.8796192],[0.1285444,51.8792748],[0.1286078,51.8791492],[0.1286708,51.8790242],[0.1286435,51.8787705],[0.1285147,51.8784562],[0.1285166,51.8784286],[0.1285647,51.8783867],[0.1289505,51.8783539]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1209237,51.8850758],[0.1214831,51.8845767],[0.1216503,51.8844173],[0.121721,51.8843339],[0.1215287,51.8839204],[0.1214209,51.8836343],[0.1213815,51.8834892],[0.1213529,51.8832614],[0.1213222,51.882855],[0.1233166,51.8824674]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1209237,51.8850758],[0.1208172,51.885149],[0.1165726,51.8857106]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1149033,51.884525],[0.1149893,51.8845516],[0.115234,51.8847661],[0.1152978,51.8848117],[0.1153607,51.8848249],[0.1154474,51.8848272],[0.1156208,51.8848195],[0.1156712,51.8848315],[0.1157351,51.8848601],[0.1158019,51.884926],[0.1162717,51.8858314],[0.1163287,51.8859281],[0.1163831,51.8859476],[0.1164856,51.8859187],[0.1165191,51.8858592],[0.1165402,51.8857521],[0.1165726,51.8857106]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1267628,51.8817943],[0.1252389,51.8820906]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Hadham Park Underpass","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1233166,51.8824674],[0.1236064,51.8824138]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1273652,51.8817437],[0.1270063,51.8817733],[0.1268832,51.8817744],[0.1267628,51.8817943]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.121089,51.8814726],[0.1211722,51.8818826],[0.1213222,51.882855]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1232699,51.8828075],[0.123207,51.8827943],[0.1231442,51.8827812],[0.1233166,51.8824674]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1236485,51.8820952],[0.123718,51.8821088],[0.1237589,51.8821168],[0.1236064,51.8824138]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1155841,51.8844366],[0.1149033,51.884525]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1156685,51.8844288],[0.1155841,51.8844366]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1252389,51.8820906],[0.1236064,51.8824138]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1165726,51.8857106],[0.1163873,51.8857322],[0.1158667,51.8848046],[0.1158006,51.8845537],[0.11574,51.884459],[0.1156685,51.8844288]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1153607,51.8848249],[0.1154074,51.8849539],[0.1154055,51.884993]]]}}
+]
+}

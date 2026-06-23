@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BABER_50_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1917404,51.9755333],[1.1912497,51.9754505],[1.1897341,51.9751974],[1.1894712,51.9751792],[1.1888946,51.9752635],[1.1887632,51.9752685],[1.1866093,51.9750687]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1962331,51.9748306],[1.1961356,51.9746978],[1.196164,51.9745476],[1.1960949,51.9744599],[1.1959486,51.9743748],[1.1957436,51.9743214]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1966251,51.9743026],[1.1963755,51.9742685],[1.1962585,51.9742002],[1.1960921,51.9741679]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1963971,51.9739724],[1.19628,51.9739876],[1.1961938,51.9740369],[1.1960921,51.9741679],[1.1959319,51.9742552],[1.1957436,51.9743214]]]}}
+]
+}

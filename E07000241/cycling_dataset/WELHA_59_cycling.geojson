@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WELHA_59_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1742652,51.8367893],[-0.174673,51.8370797],[-0.1750598,51.8373797],[-0.1752782,51.8376227],[-0.175357,51.8377211],[-0.1754644,51.8378024],[-0.175769,51.8380298],[-0.1761413,51.8383071],[-0.1761891,51.8383325],[-0.1764473,51.8384256],[-0.1764961,51.8384584],[-0.1765633,51.8385177],[-0.1767154,51.838693],[-0.1771812,51.8391763],[-0.1773369,51.8393639],[-0.1775114,51.8395046],[-0.1776028,51.8395773],[-0.1782286,51.8401985],[-0.1786359,51.8405567],[-0.1787607,51.8406782]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1677577,51.827664],[-0.1661346,51.8271791],[-0.1660388,51.82716],[-0.1659564,51.8271613],[-0.1656476,51.8271748]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1689604,51.8282598],[-0.1687122,51.8278614],[-0.1685114,51.8276889],[-0.1684166,51.8276424],[-0.1683258,51.8276359],[-0.1677577,51.827664]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1697337,51.8341744],[-0.1696405,51.8341765]]]}}
+]
+}
