@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "NORHE_37_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2262973,51.9880638],[-0.2262519,51.9880086],[-0.2264222,51.9875924],[-0.226445,51.9875366],[-0.2267647,51.9867551],[-0.2268789,51.9864677],[-0.2272586,51.9855696],[-0.227386,51.985211],[-0.227497,51.984798],[-0.2275884,51.9846407],[-0.2276493,51.9844545],[-0.2277381,51.9841939],[-0.2277765,51.984094],[-0.2279062,51.9837958],[-0.2282211,51.9829863],[-0.2282905,51.9828184]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2276916,51.9881032],[-0.2276596,51.9880622]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2276596,51.9880622],[-0.2263253,51.9880694],[-0.2262973,51.9880638]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2277299,51.9881515],[-0.227976,51.988163],[-0.2281017,51.9881917]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2281017,51.9881917],[-0.2281235,51.9890456],[-0.2281204,51.9891774],[-0.227986,51.9895625],[-0.2278648,51.9897673],[-0.2269374,51.9909995]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2259829,51.9920161],[-0.2255646,51.9925824],[-0.2254485,51.9927266],[-0.2254106,51.9927521],[-0.2253626,51.9927745],[-0.2252944,51.9927956]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2214555,51.9919134],[-0.2206911,51.9917299],[-0.2206044,51.9917194],[-0.2204101,51.9917179],[-0.2202035,51.9917838],[-0.2198541,51.9918701],[-0.2197143,51.9919185]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Cromwell Road","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2163472,51.9874849],[-0.2163235,51.987447],[-0.2163038,51.9874184]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2276916,51.9881032],[-0.2277299,51.9881515]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2269374,51.9909995],[-0.2270659,51.9910545]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHELM_28_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4651174,51.8110638],[0.4648893,51.8110351],[0.4647301,51.810996],[0.4646069,51.8109302],[0.4644424,51.8108347],[0.4641975,51.8107328],[0.4639876,51.8106582],[0.4636176,51.8105109],[0.463367,51.8103825]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4573547,51.8081322],[0.45736,51.8082541],[0.4573131,51.8083901],[0.4571548,51.8086065],[0.4571735,51.8086731],[0.4572125,51.8087185],[0.457253,51.8087645]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4656943,51.8111386],[0.4651174,51.8110638]]]}}
+]
+}

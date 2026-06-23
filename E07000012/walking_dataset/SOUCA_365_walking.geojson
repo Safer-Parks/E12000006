@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_365_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1898454,52.1139816],[0.1903399,52.1140089],[0.1907064,52.1140496],[0.1911895,52.1141539],[0.1914425,52.1142304],[0.1923241,52.1142974],[0.1929596,52.1143839],[0.1936014,52.1144321],[0.1954947,52.1146596],[0.1958584,52.1147237],[0.1969037,52.1151196],[0.1975206,52.1156574],[0.197566,52.115746]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1990473,52.1175094],[0.1983827,52.1175165],[0.1981985,52.1173472],[0.1978989,52.116972],[0.1978289,52.116515]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1917335,52.1174474],[0.1917783,52.117585],[0.1922302,52.1198855],[0.192337,52.1199561],[0.1952578,52.1198754],[0.1989756,52.1196408],[0.1996293,52.1195873]]]}}
+]
+}

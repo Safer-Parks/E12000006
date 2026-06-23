@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_267_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0771207,52.4029103],[-0.0771098,52.4028061],[-0.0771125,52.4025736]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Bottels Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.083681,52.4044129],[-0.0837626,52.4044032],[-0.0842486,52.4043493]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Garner Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0843445,52.4053639],[-0.0843423,52.4053466],[-0.0840598,52.4053731]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Bottels Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0838762,52.4048199],[-0.0845176,52.4047602]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Knowles Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0840598,52.4053731],[-0.0841852,52.405661],[-0.084243,52.4059781],[-0.0844684,52.4059686],[-0.0844763,52.4059884]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0837626,52.4044032],[-0.0838177,52.4046249],[-0.0838762,52.4048199],[-0.0840598,52.4053731]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"George Lane","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0835622,52.4040827],[-0.083585,52.4041684],[-0.0836467,52.4043372],[-0.083681,52.4044129]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.084243,52.4059781],[-0.0842806,52.4062221],[-0.0843526,52.4066219]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Flaxen Walk","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0802392,52.4064781],[-0.0800616,52.4064697],[-0.079435,52.406372],[-0.0792335,52.4063541],[-0.0786905,52.4063161],[-0.0778547,52.4062718]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Flaxen Walk","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0821134,52.4064761],[-0.0820835,52.4066269],[-0.0817574,52.4066019],[-0.0812318,52.4065636],[-0.0807156,52.4065282],[-0.0806741,52.4065357],[-0.080269,52.4065078]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0760307,52.4130432],[-0.0757822,52.4130198]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.083282,52.4106098],[-0.0855111,52.4098972],[-0.0871861,52.4094905],[-0.0889098,52.4092822],[-0.0891344,52.4092702]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0741215,52.4073688],[-0.0739566,52.4073795]]]}}
+]
+}

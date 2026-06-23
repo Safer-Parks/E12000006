@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_207_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7241677,51.9864575],[0.7245416,51.9865175],[0.7247054,51.986527]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"Alp 28","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7286878,51.978073],[0.7276476,51.9783723],[0.7270083,51.97853],[0.7257942,51.9788362],[0.7256593,51.9788702]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7257942,51.9788362],[0.7263648,51.9793474],[0.7264492,51.9793985],[0.7266923,51.9797649],[0.726781,51.9803551],[0.7268839,51.9803974],[0.728108,51.980319],[0.7285685,51.9809056],[0.7288602,51.9813909],[0.7288888,51.9818005],[0.7288903,51.9820867],[0.729059,51.982321]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7276855,51.9823666],[0.729059,51.982321],[0.7292735,51.9823008],[0.7302603,51.9822012],[0.7304118,51.9824919],[0.7305414,51.9824675]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7273249,51.9819727],[0.7271366,51.9820636],[0.7266794,51.9820718],[0.7262862,51.9819987],[0.7245272,51.9815891],[0.7215498,51.9809611],[0.7212252,51.9809699],[0.7202928,51.980984],[0.7195849,51.9810562],[0.7194148,51.9810227],[0.7191985,51.980855]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7118575,51.9843299],[0.7134858,51.9839885]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"Alp 29","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7269484,51.9753715],[0.7260692,51.9752772],[0.725188,51.9757001],[0.7242395,51.9761732],[0.72402,51.9765177],[0.723698,51.9767597],[0.7234113,51.9768621],[0.7229453,51.9771988]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_58_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6094512,51.8369062],[0.609492,51.8369181],[0.6095746,51.8368581],[0.6098804,51.8366128],[0.6100681,51.83652],[0.6101545,51.8364802],[0.6105149,51.8365038]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6094946,51.836857],[0.609163,51.8367403],[0.6090502,51.8366907]]]}}
+]
+}

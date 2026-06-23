@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_352_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3078475,52.3925403],[-0.3050613,52.3916137],[-0.3055333,52.3908804]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3075814,52.4009324],[-0.3073246,52.4013832]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3046336,52.3956245],[-0.3045108,52.3957238]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3055009,52.3952781],[-0.3053016,52.3952569],[-0.3052864,52.395249],[-0.305193,52.3952004],[-0.3052574,52.3951562],[-0.3051675,52.395108],[-0.3051843,52.3950946]]]}}
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_444_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4092394,52.3062724],[-0.4093266,52.3065176],[-0.41257,52.30776]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4139165,52.3114202],[-0.4115984,52.3100011],[-0.4093266,52.3065176]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.41257,52.30776],[-0.4150588,52.3077801]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.41257,52.30776],[-0.4149264,52.3085942],[-0.4150242,52.3086288],[-0.4159205,52.3091711],[-0.4166919,52.3094937],[-0.417216,52.309658]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4115984,52.3100011],[-0.4108876,52.3098771]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4009721,52.3104754],[-0.400841,52.3107429],[-0.4007511,52.3110411],[-0.4005715,52.3114],[-0.4003822,52.3115903]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3884858,52.3219774],[-0.3886347,52.3220568],[-0.3889929,52.3218322],[-0.3891939,52.3217746],[-0.3913804,52.3205543],[-0.3923192,52.3198327],[-0.3936303,52.3186056],[-0.3939199,52.3181564],[-0.3941238,52.317835],[-0.3950894,52.3169857],[-0.3959209,52.3164676],[-0.3970367,52.3157376],[-0.3974462,52.3153581],[-0.3979256,52.3150488],[-0.3980023,52.3147492],[-0.3986728,52.3138323],[-0.3993487,52.3127584],[-0.4005557,52.311837],[-0.4010726,52.3105476]]]}}
+]
+}

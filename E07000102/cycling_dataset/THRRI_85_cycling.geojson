@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "THRRI_85_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Little Green Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4441671,51.657831],[-0.4458736,51.6584002],[-0.446586,51.6585705],[-0.4470094,51.6586542],[-0.4473671,51.658725],[-0.4478563,51.6588634],[-0.4493085,51.6588554],[-0.4517187,51.6588421],[-0.4521393,51.6587409],[-0.4525341,51.6585652],[-0.4530001,51.6585666]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4409915,51.6551413],[-0.4404438,51.6551112]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4430103,51.6565281],[-0.4429707,51.6564823],[-0.4429362,51.6564179],[-0.442914,51.6563731],[-0.4429284,51.6561952],[-0.4429607,51.6561323],[-0.4430081,51.6560815],[-0.4430707,51.6560347],[-0.4431289,51.6560137],[-0.4431202,51.6559496]]]}}
+]
+}

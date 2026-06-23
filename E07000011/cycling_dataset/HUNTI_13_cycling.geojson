@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2776885,52.3832462],[-0.2778985,52.3832191],[-0.2780648,52.3831602],[-0.2832788,52.380567]]]}}
+]
+}

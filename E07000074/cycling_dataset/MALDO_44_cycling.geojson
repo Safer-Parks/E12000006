@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MALDO_44_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8178968,51.6620979],[0.8172554,51.6612174]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8105605,51.6584126],[0.8105173,51.6588648],[0.8105226,51.6594305],[0.8105033,51.6595497],[0.8104822,51.6596685],[0.8105126,51.659704],[0.8108418,51.6597148],[0.8109656,51.659717],[0.8113123,51.6597105],[0.8119008,51.6597119],[0.8127635,51.659717],[0.813938,51.6597206],[0.8145977,51.6597278],[0.8156333,51.6597322],[0.8161571,51.6597435],[0.8163617,51.6597755]]]}}
+]
+}

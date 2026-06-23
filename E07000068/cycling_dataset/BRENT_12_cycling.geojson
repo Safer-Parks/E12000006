@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BRENT_12_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2901078,51.613011],[0.2895019,51.612883],[0.2894064,51.6128654],[0.2882081,51.612641],[0.2880661,51.6126126],[0.2879311,51.6125856],[0.2878479,51.612569],[0.2872566,51.6120795],[0.2856643,51.6116784]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2895019,51.612883],[0.2894952,51.6128567],[0.2896152,51.6126378]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2895458,51.6135229],[0.2896124,51.6135466]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2880661,51.6126126],[0.2880865,51.6125815],[0.2883023,51.6122915]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2896152,51.6126378],[0.2896842,51.6125135],[0.2897164,51.6124382],[0.2899089,51.6122507],[0.2899604,51.6122005],[0.2899874,51.6121023],[0.289993,51.6120452],[0.2900087,51.612021],[0.2900361,51.6119927],[0.2906393,51.6114471],[0.2911382,51.6112101]]]}}
+]
+}

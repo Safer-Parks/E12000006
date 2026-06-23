@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MALDO_31_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Blackwater Rail Trail","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6642807,51.7486659],[0.664264,51.7486165],[0.6653057,51.7484021],[0.6656516,51.7483073],[0.6660787,51.7481906],[0.6661373,51.7481859],[0.6664712,51.748102]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Blackwater Rail Trail","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6686926,51.745873],[0.6683471,51.746202],[0.6675064,51.7470839],[0.6672408,51.747355],[0.6668131,51.7477913],[0.6665373,51.7480405],[0.6664712,51.748102]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6622075,51.7490582],[0.6622656,51.7489203],[0.6622797,51.7488353],[0.6622678,51.7487274],[0.6622046,51.7486005],[0.6621196,51.7484953],[0.6620069,51.748423],[0.661943,51.7483819],[0.6617921,51.7483321],[0.6616929,51.7482707],[0.6616124,51.748176],[0.6615588,51.748098],[0.6615427,51.7479884],[0.6615105,51.7477227],[0.6615132,51.7476031],[0.6615239,51.7474769],[0.6615481,51.7474105],[0.6616063,51.7473525],[0.6616734,51.7473125],[0.6617117,51.7472843]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6574174,51.7484798],[0.6576696,51.7484279]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6589409,51.7483807],[0.6587065,51.7482283],[0.6584415,51.748091]]]}}
+]
+}

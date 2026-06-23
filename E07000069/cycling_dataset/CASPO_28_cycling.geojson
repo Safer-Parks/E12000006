@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CASPO_28_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5649967,51.5626438],[0.564979,51.5625895],[0.5646022,51.5619354]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5646022,51.5619354],[0.5641239,51.5608881]]]}}
+]
+}

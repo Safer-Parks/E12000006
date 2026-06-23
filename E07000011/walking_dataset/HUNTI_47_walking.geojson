@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_47_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2393139,52.3799226],[-0.2392022,52.3798913],[-0.2389513,52.3798259],[-0.2388668,52.3798026]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2389768,52.3794384],[-0.238972,52.3795713]]]}}
+]
+}

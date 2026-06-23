@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "BASIL_96_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4476934,51.599949],[0.4486274,51.6001058],[0.4512728,51.600562]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4480525,51.5993261],[0.4490098,51.5993908],[0.4512327,51.5995683],[0.4517112,51.5997079],[0.4523894,51.6000767]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4522719,51.5992401],[0.4517112,51.5997079]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4473233,51.6006354],[0.4473547,51.6006956],[0.4475165,51.6007558],[0.4485249,51.6011311],[0.4494037,51.6013978],[0.4506653,51.6017808],[0.4510998,51.6018907],[0.4512324,51.6020404]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4494037,51.6013978],[0.4494959,51.6013343],[0.4512728,51.600562],[0.4523894,51.6000767],[0.4531222,51.5997582],[0.4533851,51.5996783],[0.4535943,51.5996483],[0.453782,51.5996716],[0.454002,51.5997349],[0.4547047,51.6000615],[0.45493,51.6002547],[0.4551626,51.6004527]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4644683,51.600089],[0.4647139,51.6001971],[0.465465,51.6004367],[0.4656126,51.6005495]]]}}
+]
+}

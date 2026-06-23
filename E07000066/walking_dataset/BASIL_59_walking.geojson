@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "BASIL_59_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5463196,51.5675278],[0.546319,51.5674784],[0.546313,51.5674052]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5491768,51.5703882],[0.5490722,51.5704065],[0.5489569,51.5704032],[0.5488201,51.5704015]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5493633,51.5713799],[0.5501768,51.5713886]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5484178,51.5709856],[0.5484211,51.5708368],[0.5480358,51.5708314],[0.5480153,51.5707269],[0.547967,51.5707325],[0.5479755,51.5706171],[0.5479538,51.5705915]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5460875,51.5705354],[0.5460823,51.5705024],[0.5457149,51.5704778],[0.5456452,51.5704746]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5456452,51.5704746],[0.5452032,51.5704699],[0.5447119,51.5704654]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5484178,51.5709856],[0.5484184,51.5710088]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5365394,51.5669777],[0.5367272,51.5669932],[0.536822,51.5670012]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5457082,51.5740784],[0.5457553,51.5740803],[0.5459859,51.5740682],[0.5461808,51.5740551],[0.546314,51.5740485],[0.5463102,51.5740113],[0.5462983,51.5738951],[0.5456333,51.5739255]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5462983,51.5738951],[0.5469421,51.5738686],[0.5469421,51.5739295],[0.5469978,51.5739282],[0.5471307,51.573925]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5469421,51.5739295],[0.5469411,51.5739952],[0.5469402,51.574056]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5335203,51.5667057],[0.5335756,51.566689],[0.5336287,51.5666859],[0.5337131,51.566689],[0.533779,51.5666966],[0.5338327,51.5667202],[0.534159,51.5667491],[0.5344038,51.5667758],[0.5344194,51.5667678],[0.5345697,51.5667849],[0.5349167,51.5668238],[0.5353096,51.5668679],[0.5356085,51.566903],[0.53596,51.5669342],[0.5363634,51.5669624],[0.5365394,51.5669777]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5492753,51.5713789],[0.5493633,51.5713799]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5492225,51.5710045],[0.5492959,51.5710041]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"St Georges Walk","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5468622,51.5708875],[0.547054,51.5709358],[0.5472136,51.5709558],[0.5474094,51.5709666],[0.5475716,51.5709591],[0.5476508,51.5709425],[0.5477473,51.5709141],[0.5478331,51.5709408],[0.547915,51.5709942],[0.5480008,51.5710092],[0.5484184,51.5710088]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"St Georges Walk","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5484184,51.5710088],[0.5492225,51.5710045]]]}}
+]
+}

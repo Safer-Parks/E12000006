@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MALDO_66_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Handley's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.678162,51.7807486],[0.6774894,51.780121],[0.6768867,51.7797245],[0.6764448,51.7794987],[0.6761589,51.7793728]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6752687,51.7746058],[0.6754557,51.7747094],[0.6757378,51.7745996],[0.676216,51.7744062],[0.6764289,51.774424]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6795662,51.7726456],[0.6795173,51.7727274],[0.6794437,51.7727753],[0.6792546,51.7727666],[0.679006,51.7727156],[0.6777426,51.7727364]]]}}
+]
+}

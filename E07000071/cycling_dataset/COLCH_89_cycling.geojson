@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COLCH_89_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9355606,51.9217771],[0.9354481,51.9215125],[0.9353292,51.9213836],[0.9352018,51.9212637]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9352018,51.9212637],[0.9351837,51.9212219],[0.9352105,51.9211777],[0.9352343,51.9211366],[0.9353263,51.9211199],[0.9357643,51.9210213],[0.9358965,51.9209792],[0.9359323,51.9209279]]]}}
+]
+}

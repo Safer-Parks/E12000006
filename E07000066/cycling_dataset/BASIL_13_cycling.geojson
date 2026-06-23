@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BASIL_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5039254,51.5838523],[0.5039307,51.5838928],[0.5039782,51.5842521]]]}}
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "THURR_68_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3749932,51.481041],[0.374995,51.4809181],[0.3749957,51.4808876],[0.3749947,51.4808101]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3754361,51.4810522],[0.3754478,51.4809587],[0.3754531,51.4809395],[0.3754936,51.4808877]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3783131,51.4837693],[0.3785525,51.4837378],[0.3786543,51.4837244]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3753369,51.4815256],[0.3752667,51.4813526]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3752667,51.4813526],[0.375199,51.4811128],[0.3751851,51.4810637]]]}}
+]
+}

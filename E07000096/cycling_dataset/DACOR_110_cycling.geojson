@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DACOR_110_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4385486,51.7096727],[-0.4384334,51.7096128],[-0.4383362,51.7094775],[-0.438281,51.7093347],[-0.438239,51.7091777],[-0.4382355,51.7089556]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4472655,51.7113157],[-0.447264,51.7112767],[-0.4474434,51.7110694],[-0.4477733,51.7105293],[-0.448212,51.7099444],[-0.4482812,51.7099224]]]}}
+]
+}

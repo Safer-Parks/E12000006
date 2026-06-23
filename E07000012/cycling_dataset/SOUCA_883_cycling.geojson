@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_883_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0795221,52.2511162],[0.0794453,52.2511167],[0.0793763,52.2511283],[0.0788967,52.2513754],[0.0784262,52.2516183],[0.0776843,52.2520018],[0.0769245,52.2523824],[0.0750328,52.25303],[0.0740456,52.2533982],[0.0734616,52.253571],[0.0727795,52.2538927],[0.0727128,52.2539242],[0.0710802,52.2547808],[0.0703928,52.2553669],[0.0700988,52.2555439],[0.0695591,52.2558759],[0.0687786,52.2562814],[0.0667977,52.257384],[0.0666716,52.2574398]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"The Drift","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0624983,52.2602359],[0.0614432,52.2596188],[0.0609213,52.2593636],[0.0603615,52.2591096],[0.0595971,52.258873]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0636054,52.2570861],[0.0640606,52.2568423],[0.064354,52.2566841]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0595959,52.2636396],[0.059478,52.263524],[0.0595951,52.2632904],[0.0595492,52.2632396],[0.0586881,52.2627254],[0.0586593,52.2626548],[0.0587361,52.2625931],[0.0588994,52.2625197],[0.059101,52.2625285],[0.0592163,52.2625902],[0.0592815,52.2626163]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0680717,52.2586171],[0.0681675,52.2585641],[0.0681858,52.2584546]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0666206,52.2584256],[0.066907,52.2583149]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0666716,52.2574398],[0.0665965,52.2574842]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0665965,52.2574842],[0.0664998,52.2574885]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0665009,52.2574478],[0.0664998,52.2574885]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0665819,52.257397],[0.0665009,52.2574478]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0666722,52.2573881],[0.0665819,52.257397]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Longstanton Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0575122,52.2650423],[0.0575445,52.265023],[0.0576666,52.2649531],[0.0579383,52.2647748],[0.058311,52.2645297],[0.0585194,52.2643892],[0.0587872,52.2642153],[0.0595959,52.2636396]]]}}
+]
+}

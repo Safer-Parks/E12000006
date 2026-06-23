@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "THURR_51_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3336834,51.484349],[0.3336818,51.48427],[0.3326368,51.4832138]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3248031,51.4849802],[0.3246546,51.4849633],[0.324448,51.4850159],[0.3241439,51.48515],[0.3237412,51.4854916],[0.3233652,51.4857954],[0.3233599,51.4860294]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"High Street","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3227955,51.4760517],[0.3227112,51.476079],[0.3227128,51.4762155],[0.322772,51.4762126],[0.3227871,51.4762667],[0.322794,51.4763037],[0.3228063,51.4763496],[0.3228204,51.4764269],[0.3228237,51.4764986],[0.3228092,51.4765535],[0.3229474,51.4774289],[0.3229998,51.4777277],[0.3230104,51.477768],[0.3230693,51.4778372]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3234903,51.4933792],[0.3234679,51.4933499],[0.3233121,51.4932591],[0.3232732,51.493245],[0.3232561,51.4932388],[0.3231691,51.4931892],[0.3230984,51.4931458],[0.3225554,51.4929847],[0.3224496,51.4929216],[0.3219934,51.4924861]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3234065,51.4841516],[0.3234025,51.484949]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"Hathaway Place","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3240474,51.4865941],[0.3240393,51.4866954],[0.3243545,51.4869512],[0.3243461,51.4870052],[0.3244369,51.4870846]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.328275,51.4794354],[0.3301285,51.4791208],[0.3301463,51.4790372],[0.3304392,51.4790696],[0.3305861,51.4789079],[0.3308482,51.4789637]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3235248,51.4850613],[0.3240325,51.4850905],[0.3241439,51.48515]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3308515,51.4792159],[0.3313053,51.4791672]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"Hathaway Place","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3243447,51.4871901],[0.3250973,51.4871771]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3243545,51.4869512],[0.3246081,51.4865974]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3249186,51.4779657],[0.324948,51.4777805]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3243419,51.480182],[0.3243029,51.4802099],[0.3241406,51.480605],[0.324091,51.480701],[0.3239957,51.4809491],[0.3238647,51.4814447],[0.323803,51.4817303],[0.3243258,51.4817764]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3284889,51.478452],[0.3286591,51.4785559],[0.3301517,51.4786179],[0.3301463,51.4790372]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3240325,51.4850905],[0.3238741,51.4849248],[0.3234025,51.484949],[0.322056,51.4850233]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3252969,51.4777639],[0.3254015,51.4777855],[0.3254373,51.4778229]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3254015,51.4777855],[0.3254839,51.4777392]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"George Street","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3229474,51.4774289],[0.3228613,51.4774225],[0.3223318,51.4773816],[0.3216506,51.4773293],[0.3215432,51.4773211]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3218248,51.4801628],[0.3218538,51.4801495],[0.3219198,51.48016]]]}}
+]
+}

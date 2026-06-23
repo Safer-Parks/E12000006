@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "CHELM_105_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4725429,51.7648748],[0.4723718,51.7648409],[0.4718452,51.7647316],[0.4715088,51.7646576],[0.4713429,51.7646329],[0.471042,51.7646106],[0.4707946,51.7645931],[0.4703092,51.76454]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4703092,51.76454],[0.4703579,51.7642968],[0.4703911,51.7641449],[0.4704258,51.7641183]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Broomfield Cycleway","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4682984,51.7689124],[0.4678057,51.7687481],[0.4679654,51.7685729],[0.4684152,51.7680768],[0.4688967,51.7674838],[0.4689797,51.7673857],[0.4686659,51.767258],[0.4684347,51.7671923]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4721062,51.7603155],[0.4721856,51.7603271],[0.4722664,51.7603287],[0.4726944,51.760294],[0.4727661,51.7602898],[0.4728417,51.7602906],[0.4730959,51.7603094],[0.473514,51.7603739]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Broomfield Cycleway","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4684347,51.7671923],[0.4682272,51.7671071],[0.4681688,51.7670253],[0.4681416,51.7669459],[0.4681438,51.7668465],[0.4681272,51.7667547],[0.4680712,51.7666846],[0.4678779,51.7665598],[0.4678064,51.7664807],[0.4677638,51.7663333],[0.4677308,51.76623],[0.4677242,51.7662219],[0.4676833,51.7661721],[0.4675893,51.7661382],[0.4674412,51.7661275],[0.4673561,51.7661089],[0.4672964,51.7660664],[0.4672926,51.7659991],[0.4673472,51.7657147],[0.4673664,51.7651935],[0.4673769,51.7649085]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4671147,51.7571963],[0.467125,51.7572439],[0.4673424,51.7579218]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4726171,51.7648888],[0.4725429,51.7648748]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4682272,51.7671071],[0.4681428,51.7671016],[0.4679157,51.7671672],[0.467098,51.7671141],[0.466982,51.7670454]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4756144,51.7576212],[0.4755934,51.7576189],[0.4755699,51.7577217]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Broomfield Cycleway","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4673817,51.7647125],[0.4675103,51.764661],[0.4674946,51.7644028]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Broomfield Cycleway","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4674946,51.7644028],[0.46744,51.764323]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Broomfield Cycleway","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4673769,51.7649085],[0.4673947,51.7648162],[0.4673817,51.7647125]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Broomfield Cycleway","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.467702,51.7696112],[0.4677241,51.7695916],[0.4678239,51.7694628],[0.4679237,51.7693558],[0.4682984,51.7689124]]]}}
+]
+}

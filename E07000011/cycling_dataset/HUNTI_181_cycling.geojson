@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_181_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2307278,52.4090142],[-0.2306407,52.4090274],[-0.2304689,52.4090534],[-0.2282105,52.4094985],[-0.2280439,52.4095795]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2334515,52.4008438],[-0.2334087,52.4004494],[-0.2333764,52.4001892],[-0.2329902,52.3990764],[-0.23284,52.3982646],[-0.232561,52.3967851],[-0.2322094,52.3957159]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2367518,52.3973656],[-0.2329902,52.3990764],[-0.2320675,52.3993513],[-0.2302651,52.4002023],[-0.2278492,52.3989832]]]}}
+]
+}

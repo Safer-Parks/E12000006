@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "WATFO_8_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Bridle Path","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3988511,51.6656661],[-0.398735,51.6655787]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Bridle Path","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.397967,51.6638216],[-0.3979632,51.663772],[-0.3979746,51.6637391]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4083277,51.6628653],[-0.4083207,51.6628557],[-0.4077498,51.6620767],[-0.4077237,51.6620411],[-0.4075324,51.6618045],[-0.4074331,51.6616872],[-0.4072963,51.6615683],[-0.4073097,51.6615209],[-0.4072391,51.6614769],[-0.4071624,51.6614487],[-0.4070879,51.6614445],[-0.4068905,51.6613373],[-0.4065852,51.6612126],[-0.4065308,51.6611934],[-0.4057716,51.6609266],[-0.4051895,51.6607245],[-0.4048695,51.6606135],[-0.4048208,51.6605945]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Bridle Path","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.398735,51.6655787],[-0.3985828,51.6654643]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Bridle Path","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3978758,51.6648683],[-0.3978707,51.6649528]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Bridle Path","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3985828,51.6654643],[-0.3985016,51.6654268],[-0.3978707,51.6649528]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Westland Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3982026,51.6637145],[-0.3982242,51.6636798],[-0.3982729,51.6636637]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4071624,51.6614487],[-0.4071976,51.6614345]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4071976,51.6614345],[-0.4073029,51.6613724],[-0.4074232,51.6613879]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4082334,51.6628893],[-0.4083277,51.6628653]]]}}
+]
+}

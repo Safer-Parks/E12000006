@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_182_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Bullock Road","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2686845,52.3977217],[-0.2682741,52.3973795],[-0.2677817,52.3969205],[-0.2671115,52.3965199],[-0.2665781,52.3962445],[-0.2660583,52.3961193],[-0.2655522,52.3958939],[-0.2650871,52.3956686],[-0.2646494,52.3954599],[-0.2644309,52.3953242]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.270184,52.3988191],[-0.2701638,52.3988497],[-0.2669354,52.4004458],[-0.2637459,52.4020226]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2559962,52.3990648],[-0.2558406,52.3984363],[-0.2558889,52.3983283],[-0.2571227,52.3982367],[-0.2583082,52.3981516],[-0.2610917,52.3979608]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2617331,52.4007945],[-0.26053,52.401224],[-0.2598782,52.4014567],[-0.2580329,52.4019411]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.26053,52.401224],[-0.2600713,52.4008021]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.26053,52.401224],[-0.2606009,52.4011267],[-0.2607404,52.4010579],[-0.261081,52.4009123],[-0.2612232,52.400765]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2630016,52.395823],[-0.2630122,52.3958977],[-0.2630685,52.3959861],[-0.2631597,52.3960827]]]}}
+]
+}

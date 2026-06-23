@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "THURR_89_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4172909,51.4860329],[0.4172254,51.4859092],[0.4141251,51.4847999],[0.4136093,51.4846098]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4107971,51.4861241],[0.4107589,51.4861941],[0.4108279,51.4862291],[0.4113104,51.4863493],[0.411377,51.4863659],[0.4114971,51.4862785],[0.4114997,51.4862482],[0.4114971,51.4861862],[0.4115636,51.4860891],[0.4116402,51.4861162],[0.4118153,51.4858988]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4094213,51.4884178],[0.4095031,51.4883638],[0.409641,51.4884004],[0.4098453,51.4884322],[0.4100114,51.4884974],[0.4101085,51.4885658],[0.410185,51.4886231],[0.4103321,51.4887714]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4171144,51.4855351],[0.4172321,51.4854615],[0.4173518,51.4854188]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4173758,51.4862117],[0.4172909,51.4860329]]]}}
+]
+}

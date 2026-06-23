@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_512_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Church Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0083176,52.1595279],[-0.0073935,52.1601711],[-0.0062064,52.1605799],[-0.0051909,52.1609341],[-0.0046022,52.1611444],[-0.0042964,52.161242],[-0.0041315,52.1612969],[-0.0038275,52.1615101],[-0.0037476,52.1616066]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Pound Drift","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0009215,52.1594631],[0.0007523,52.1593305],[0.000644,52.1592402],[0.0006153,52.1592162],[0.0005694,52.1591828],[0.0001661,52.1588888],[-0.001103,52.1579719],[-0.0018489,52.1574392],[-0.0024807,52.1569992],[-0.002892,52.1567046],[-0.0045581,52.1555407],[-0.004759,52.1554259],[-0.0052668,52.1551357]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.006886,52.1541721],[-0.0063199,52.1537789],[-0.0056952,52.1533316]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0056952,52.1533316],[-0.0060329,52.1530216],[-0.0082819,52.150971],[-0.0098508,52.149377],[-0.0098869,52.1493476]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0083176,52.1595279],[-0.0082575,52.159503],[-0.0081841,52.1594881],[-0.0068785,52.1589169],[-0.0053953,52.1582727],[-0.0024807,52.1569992]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0052668,52.1551357],[-0.0052986,52.1550017],[-0.0053437,52.154812],[-0.0056382,52.1535715],[-0.0056952,52.1533316]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0052668,52.1551357],[-0.006886,52.1541721]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Ivett's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0102357,52.1606418],[-0.0097303,52.1603015],[-0.0091074,52.1599354],[-0.0085799,52.1595947],[-0.0083889,52.1595159],[-0.0083176,52.1595279]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0020512,52.1596753],[0.001907,52.1595929],[0.0017433,52.1595086],[0.0016167,52.1594918],[0.0013404,52.1593366],[0.0012998,52.1593023]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0043277,52.1590248],[0.003731,52.1591777],[0.0035003,52.1592007],[0.0031986,52.1592686],[0.0020975,52.1595825],[0.0020597,52.1595457],[0.001907,52.1595929]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.000644,52.1592402],[0.0006511,52.1592151],[0.0006444,52.1591929],[0.0006102,52.1591831],[0.0005694,52.1591828]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0007523,52.1593305],[0.0007156,52.1593511],[0.0007041,52.1593933],[0.00069,52.1594262]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0053437,52.154812],[-0.0055763,52.154698],[-0.0057881,52.1545226],[-0.0060416,52.1543525],[-0.0061002,52.1541894],[-0.0060723,52.1539863],[-0.0059857,52.1538389],[-0.0058858,52.153728],[-0.0058128,52.1536737],[-0.0056382,52.1535715]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.004759,52.1554259],[-0.0046781,52.1553696],[-0.0052986,52.1550017]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UTTLE_63_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4541975,51.8618669],[0.4541613,51.8615286]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4576664,51.8636536],[0.4577616,51.8630547],[0.458003,51.8626042],[0.4579815,51.8625545],[0.4578474,51.8625213],[0.4568174,51.862422],[0.4558702,51.862288]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4586589,51.8592396],[0.4586519,51.8592706],[0.4586565,51.8593168],[0.4586814,51.8593854],[0.4587063,51.8594344],[0.4587267,51.859496],[0.4587335,51.8595618],[0.4587141,51.8596297]]]}}
+]
+}

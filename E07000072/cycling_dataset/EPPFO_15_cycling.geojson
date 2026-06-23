@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "EPPFO_15_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1527691,51.7508397],[0.1529159,51.7508986],[0.1533158,51.7509258],[0.1533914,51.7509469],[0.1533939,51.7509711],[0.1533719,51.7510284]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1519667,51.7484395],[0.1525043,51.7485159],[0.1529998,51.748716],[0.1530535,51.7489257],[0.1526897,51.7492419],[0.1526853,51.7492819],[0.1527074,51.7493227]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1522009,51.7482347],[0.1519667,51.7484395],[0.1510526,51.7492388]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1559799,51.750441],[0.1560671,51.7503683],[0.1561241,51.7503289],[0.1563058,51.7499141]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1546723,51.749947],[0.1546537,51.7497823]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1557275,51.7498345],[0.1558558,51.7505301],[0.1572685,51.7515096],[0.1573407,51.7515597],[0.1580205,51.752031],[0.1584925,51.75229],[0.159147,51.7524428],[0.1598336,51.7526288],[0.1604666,51.7528944],[0.1610353,51.7532398],[0.161443,51.7535121],[0.1617863,51.7536848],[0.1622154,51.7538575],[0.162666,51.7540301],[0.1633378,51.7541727]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1634035,51.750602],[0.1634589,51.7504102]]]}}
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BASIL_23_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.426975,51.6067405],[0.4269804,51.6066039],[0.4272379,51.6065905],[0.4281089,51.6065151]]]}}
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "UTTLE_82_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2049413,51.826562],[0.2052864,51.826764],[0.2057099,51.8268931]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2026931,51.8261139],[0.2026676,51.8261939],[0.2026703,51.8262392],[0.2026171,51.8263674],[0.2026306,51.8264084],[0.2026946,51.8265155],[0.2027172,51.8265588],[0.2026922,51.8267816],[0.2026892,51.8268158],[0.2026466,51.8269782],[0.2025792,51.8272527],[0.2020774,51.827594]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.203529,51.8268233],[0.2034893,51.8269351],[0.203529,51.8270292],[0.203478,51.8271584],[0.2033652,51.8273204]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2038959,51.8269316],[0.2037492,51.8270258],[0.2036757,51.8271933],[0.2036814,51.8273477]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2031607,51.8267012],[0.2031326,51.826792],[0.2030422,51.8268408],[0.2029405,51.8268408],[0.2026892,51.8268158]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2025792,51.8272527],[0.2026959,51.8272627],[0.2033652,51.8273204],[0.2036814,51.8273477],[0.2040145,51.8273707],[0.2041671,51.8273197],[0.2043023,51.827109],[0.2045281,51.8268089],[0.2046877,51.8266874],[0.2049413,51.826562],[0.2049983,51.8265337],[0.2049079,51.8262189],[0.2049755,51.8260828]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.201463,51.8257498],[0.2012006,51.8262713],[0.2011609,51.826464]]]}}
+]
+}

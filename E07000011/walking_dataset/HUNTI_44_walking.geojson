@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_44_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2164222,52.2746845],[-0.2160893,52.2746892],[-0.2154241,52.2744529],[-0.2152954,52.2742428],[-0.2146946,52.2741378],[-0.2141796,52.2741378]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2212131,52.2705251],[-0.219308,52.2700543]]]}}
+]
+}
