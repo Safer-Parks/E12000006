@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CENBE_85",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4018009735, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2468397, 52.0824441 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4018009734, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2469324, 52.082531 ] } }
+]
+}

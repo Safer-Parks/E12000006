@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASSU_98",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3501338950, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.7079881, 52.5157331 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3501338964, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.7076625, 52.5160205 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3501338969, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.7071269, 52.5160971 ] } }
+]
+}

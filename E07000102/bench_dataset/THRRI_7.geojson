@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "THRRI_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8557344081, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4551077, 51.6522172 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8553173000, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4543727, 51.6527622 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8553687671, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4544704, 51.6536506 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8558101477, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4538953, 51.655134 ] } }
+]
+}

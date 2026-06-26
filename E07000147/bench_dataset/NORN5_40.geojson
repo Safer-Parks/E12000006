@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORN5_40",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3534057175, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3837328, 52.8190786 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3534057179, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3829204, 52.8194241 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3534057180, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3831222, 52.8194466 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3534057181, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.382954, 52.8194487 ] } }
+]
+}

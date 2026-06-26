@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DACOR_15",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 931636381, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4822283, 51.7422407 ] } },
+{ "type": "Feature", "properties": { "osm_id": 931636378, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4823034, 51.7424134 ] } }
+]
+}

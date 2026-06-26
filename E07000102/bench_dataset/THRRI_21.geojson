@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "THRRI_21",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8849917312, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.50684, 51.6606132 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8863076679, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5060568, 51.6621389 ] } }
+]
+}

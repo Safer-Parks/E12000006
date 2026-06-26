@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STEVE_63",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8714751349, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1640459, 51.887935 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6450188289, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1656341, 51.8879584 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6450188288, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1677874, 51.889038 ] } }
+]
+}

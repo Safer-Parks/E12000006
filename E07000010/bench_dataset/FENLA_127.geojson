@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FENLA_127",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12132537427, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0775086, 52.5831475 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12132537426, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0774416, 52.5832502 ] } }
+]
+}

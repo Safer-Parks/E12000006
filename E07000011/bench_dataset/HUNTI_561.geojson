@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_561",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11851520030, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.005499, 52.3231109 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11851520028, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0054438, 52.3231391 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11851520029, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0054699, 52.3231665 ] } }
+]
+}

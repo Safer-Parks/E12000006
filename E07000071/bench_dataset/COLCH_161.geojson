@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COLCH_161",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13630056182, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.905084, 51.888764 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13630056181, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.9048627, 51.8888145 ] } }
+]
+}

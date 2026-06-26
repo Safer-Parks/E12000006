@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BEDFO_85",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1379745361, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4586249, 52.1369161 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1379745362, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4583467, 52.1369318 ] } }
+]
+}

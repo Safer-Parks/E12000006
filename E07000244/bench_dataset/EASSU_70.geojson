@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EASSU_70",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13751447123, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.5059777, 52.3427498 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13751447124, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.5060869, 52.3428214 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13751447119, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.5057866, 52.3431304 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1232333341, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.504691, 52.3440156 ] } }
+]
+}

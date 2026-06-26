@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_39",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9413871231, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0636478, 52.31409 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9413871237, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0640799, 52.3140983 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9413871236, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0636951, 52.3141787 ] } }
+]
+}

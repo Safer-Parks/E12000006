@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BASIL_52",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5761222098, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4465887, 51.5875868 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5761222112, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.445517, 51.5876141 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7101084421, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4463298, 51.5876591 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7101084422, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4467809, 51.587787 ] } }
+]
+}

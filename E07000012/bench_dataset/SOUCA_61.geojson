@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_61",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8443188807, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1155378, 52.2291127 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8443188806, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1154742, 52.2291311 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8443188805, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1155573, 52.2291625 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8443188808, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1154901, 52.2291755 ] } }
+]
+}

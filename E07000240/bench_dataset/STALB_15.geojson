@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "STALB_15",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12065313933, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3512132, 51.8106927 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10840246388, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3550026, 51.8132519 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10840246375, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3551192, 51.813652 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5925919113, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3545418, 51.8141072 ] } }
+]
+}

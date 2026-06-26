@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EASHE_44",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12980303472, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.146724, 51.8639095 ] } }
+]
+}

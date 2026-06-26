@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TENDR_23",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 993567301, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.1540527, 51.7933949 ] } },
+{ "type": "Feature", "properties": { "osm_id": 993567271, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.1538058, 51.7934546 ] } },
+{ "type": "Feature", "properties": { "osm_id": 993567393, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.1540024, 51.7934957 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHELM_159",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9852854883, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.453837, 51.7850868 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9852854884, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4539264, 51.7851166 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9852854885, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4540065, 51.7851336 ] } }
+]
+}

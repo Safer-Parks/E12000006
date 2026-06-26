@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRECK_120",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4442915486, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.7464641, 52.4135554 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4442919662, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.7463668, 52.4135861 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4442919639, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.7462628, 52.413618 ] } },
+{ "type": "Feature", "properties": { "osm_id": 959170234, "name": "Captain Mainwaring", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.7460905, 52.4136618 ] } }
+]
+}

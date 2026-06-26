@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MALDO_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13898911902, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8048964, 51.6345485 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13898913901, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8048872, 51.6345537 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13898914001, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8049062, 51.6345549 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13898911901, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8048936, 51.6345638 ] } }
+]
+}

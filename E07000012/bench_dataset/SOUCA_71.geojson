@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_71",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8220811400, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1571912, 52.2456763 ] } }
+]
+}

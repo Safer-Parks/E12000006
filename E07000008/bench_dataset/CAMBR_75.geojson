@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CAMBR_75",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7575228661, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1197982, 52.2018669 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7575244388, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1197854, 52.2021733 ] } }
+]
+}

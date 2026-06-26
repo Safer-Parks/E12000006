@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORHE_78",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 760427606, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1887091, 51.8648478 ] } },
+{ "type": "Feature", "properties": { "osm_id": 760427607, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1886103, 51.8648589 ] } },
+{ "type": "Feature", "properties": { "osm_id": 760427605, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1887989, 51.8648589 ] } },
+{ "type": "Feature", "properties": { "osm_id": 760427604, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1897601, 51.8649588 ] } }
+]
+}

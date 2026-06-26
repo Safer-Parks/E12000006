@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UTTLE_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8567129999, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1973604, 51.8965943 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8569583196, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1987974, 51.8966243 ] } }
+]
+}
