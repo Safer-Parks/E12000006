@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_80",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1343442407, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2577545, 52.2173702 ] } }
+]
+}

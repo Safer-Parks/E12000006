@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BROAD_17",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6852752992, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.1346495, 52.8019797 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5041306437, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.134262, 52.8024359 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6858278599, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.1341324, 52.8024757 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5041306438, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.1339983, 52.8025157 ] } }
+]
+}

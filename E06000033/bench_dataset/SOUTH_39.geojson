@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUTH_39",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1168929266, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.6482682, 51.5601378 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1168929280, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.6481394, 51.5602645 ] } }
+]
+}

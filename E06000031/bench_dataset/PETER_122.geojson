@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "PETER_122",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5635969682, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2463157, 52.5647515 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5635969680, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2464142, 52.5647599 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5635969681, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.246306, 52.5648089 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5635969679, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2463966, 52.5648151 ] } }
+]
+}

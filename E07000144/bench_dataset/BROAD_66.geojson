@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BROAD_66",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4041767704, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.5687696, 52.5593966 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11190336567, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.5690658, 52.5593974 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4041767707, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.5689265, 52.5594007 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORN5_63",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5311917957, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8514766, 52.9529588 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5311917953, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8516134, 52.9530117 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5311917951, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8516791, 52.9530836 ] } }
+]
+}

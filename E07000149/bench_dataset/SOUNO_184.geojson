@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUNO_184",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12022582513, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2345786, 52.6056844 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12022582514, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2345001, 52.6057235 ] } }
+]
+}

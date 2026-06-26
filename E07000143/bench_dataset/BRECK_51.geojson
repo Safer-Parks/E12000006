@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRECK_51",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 2886686548, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.6915796, 52.6472047 ] } },
+{ "type": "Feature", "properties": { "osm_id": 2886686550, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.6915966, 52.6476499 ] } }
+]
+}

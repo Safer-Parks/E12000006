@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WELHA_103",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12817839831, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1478943, 51.7035417 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7972827057, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1479057, 51.7035692 ] } }
+]
+}

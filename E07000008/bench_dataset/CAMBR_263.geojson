@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CAMBR_263",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12672547019, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1073426, 52.2062799 ] } }
+]
+}

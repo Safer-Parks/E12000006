@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EPPFO_28",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7856125695, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0756816, 51.6185086 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7856125696, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.075593, 51.6185349 ] } }
+]
+}

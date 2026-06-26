@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13860297339, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.171227, 52.1155777 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13860297354, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1708307, 52.1165735 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13860297353, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1710252, 52.1168362 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13860297336, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1704807, 52.1170892 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13860297335, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.170761, 52.1171387 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13860297334, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1705444, 52.1172632 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13860297333, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1703184, 52.1172924 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13860297332, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1700777, 52.1173274 ] } }
+]
+}

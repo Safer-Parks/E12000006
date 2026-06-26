@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_45",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12369732032, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5458949, 51.8706118 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12369707284, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5486052, 51.8717167 ] } }
+]
+}

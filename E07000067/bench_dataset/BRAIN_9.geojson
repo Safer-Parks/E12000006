@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4637786023, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5550733, 51.8805807 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4637783036, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5552921, 51.8805918 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4637783037, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5550575, 51.8810025 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4637783038, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5540019, 51.8810582 ] } }
+]
+}

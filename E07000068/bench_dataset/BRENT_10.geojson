@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BRENT_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1744042636, "name": "Jury Hill", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3350148, 51.5801398 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1800383246, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3349021, 51.5801999 ] } },
+{ "type": "Feature", "properties": { "osm_id": 431069408, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3465695, 51.5835081 ] } }
+]
+}

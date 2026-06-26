@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "IPSWI_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13608015775, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.1923647, 52.0269276 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13617543478, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.1919172, 52.0270744 ] } }
+]
+}

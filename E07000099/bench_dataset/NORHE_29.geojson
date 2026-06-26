@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORHE_29",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 476670706, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0763366, 51.9927049 ] } },
+{ "type": "Feature", "properties": { "osm_id": 476670705, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0767996, 51.9930239 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4228775064, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0766609, 51.9930261 ] } }
+]
+}

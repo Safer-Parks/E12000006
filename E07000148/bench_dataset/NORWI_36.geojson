@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORWI_36",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5991619099, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2744253, 52.6354671 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8142526683, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2740706, 52.6356797 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1033910269, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2735955, 52.636879 ] } }
+]
+}

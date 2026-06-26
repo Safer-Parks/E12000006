@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_295",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11048167400, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4056103, 52.0887579 ] } }
+]
+}

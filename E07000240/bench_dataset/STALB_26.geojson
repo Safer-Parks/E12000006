@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STALB_26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10659761071, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3358992, 51.7548437 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10659761072, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3359448, 51.7548574 ] } }
+]
+}

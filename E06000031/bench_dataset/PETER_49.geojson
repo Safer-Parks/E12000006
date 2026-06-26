@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PETER_49",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6172028814, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2664378, 52.5415653 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6230636105, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2670955, 52.5417908 ] } }
+]
+}

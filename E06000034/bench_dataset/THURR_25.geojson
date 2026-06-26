@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "THURR_25",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1602387506, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4313794, 51.5145087 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1602387516, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4315101, 51.5145221 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1602387521, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4318061, 51.5145624 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1602387527, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4319289, 51.5145769 ] } }
+]
+}
