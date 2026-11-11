@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BRECK_184_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 287506329, "highway": "track", "name": "Sandy Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0340416, 52.4654877 ], [ 1.0339446, 52.465542 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 425062079, "highway": "bridleway", "name": "Sandy Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "sand" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0339446, 52.465542 ], [ 1.0327894, 52.4662164 ], [ 1.0315529, 52.4668929 ], [ 1.0306543, 52.4674354 ], [ 1.0302229, 52.467715 ], [ 1.0301287, 52.4677922 ], [ 1.0298067, 52.4682001 ], [ 1.0294232, 52.4687034 ], [ 1.0290043, 52.4691926 ], [ 1.0284844, 52.4699193 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 425061776, "highway": "track", "name": "Sandy Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0284844, 52.4699193 ], [ 1.0283828, 52.4700968 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 425061758, "highway": "track", "name": "Sandy Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0283828, 52.4700968 ], [ 1.0277996, 52.4708135 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 425064098, "highway": "track", "name": "Sandy Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "pebblestone" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0277996, 52.4708135 ], [ 1.027504, 52.4712284 ], [ 1.0270659, 52.4717871 ], [ 1.0267928, 52.472133 ], [ 1.0263957, 52.4725152 ], [ 1.0261829, 52.47272 ], [ 1.0258442, 52.4729384 ], [ 1.0257961, 52.4730583 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUNO_18_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 932007433, "highway": "path", "name": "Hollow Lane", "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.2103151, 52.3871755 ], [ 1.2102208, 52.3877179 ], [ 1.2102181, 52.3878717 ], [ 1.2102744, 52.3880731 ], [ 1.2105909, 52.388867 ], [ 1.2109289, 52.3895283 ], [ 1.2113875, 52.390206 ], [ 1.2115404, 52.3904532 ], [ 1.2117067, 52.3907773 ], [ 1.2117308, 52.3908616 ], [ 1.211708, 52.3911399 ], [ 1.2117139, 52.391315 ], [ 1.2117148, 52.391342 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 312378757, "highway": "track", "name": "Hollow Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.2117148, 52.391342 ], [ 1.2117526, 52.3914318 ], [ 1.2117528, 52.3915174 ], [ 1.2118316, 52.3916342 ], [ 1.2119721, 52.3917707 ], [ 1.2120437, 52.3918054 ], [ 1.2123815, 52.3919551 ], [ 1.2124426, 52.392014 ] ] } }
+]
+}

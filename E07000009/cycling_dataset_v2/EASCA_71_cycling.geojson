@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EASCA_71_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 493444681, "highway": "bridleway", "name": "Watery Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4020583, 52.1929691 ], [ 0.4012807, 52.1929845 ], [ 0.40045, 52.1929494 ], [ 0.3997267, 52.1929172 ], [ 0.3988482, 52.1928276 ], [ 0.3983315, 52.1928599 ], [ 0.3979342, 52.1928848 ], [ 0.3965401, 52.1930998 ], [ 0.3956756, 52.1934002 ], [ 0.3946416, 52.1936392 ], [ 0.3942418, 52.1937108 ], [ 0.3940325, 52.193736 ] ] } }
+]
+}

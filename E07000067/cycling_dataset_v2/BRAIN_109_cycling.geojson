@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_109_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1417407360, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.7014329, 51.8298168 ], [ 0.7020863, 51.8290783 ], [ 0.7030143, 51.8290055 ], [ 0.7030698, 51.8289446 ] ] } }
+]
+}

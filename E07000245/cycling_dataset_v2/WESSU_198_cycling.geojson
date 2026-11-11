@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_198_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 379522417, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": "yes", "foot": "yes", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.93213, 52.3320056 ], [ 0.9321477, 52.3320808 ], [ 0.932148, 52.3322904 ], [ 0.9321155, 52.3324381 ], [ 0.9320568, 52.3326445 ], [ 0.9320782, 52.3328477 ], [ 0.9321748, 52.3330477 ], [ 0.9323676, 52.3332445 ], [ 0.9326898, 52.3335066 ], [ 0.9329309, 52.333746 ], [ 0.9330597, 52.3339034 ], [ 0.9331404, 52.3340343 ], [ 0.9331562, 52.3342771 ], [ 0.9330693, 52.3346236 ], [ 0.9329247, 52.3349523 ], [ 0.9326627, 52.3354276 ], [ 0.9326573, 52.3355653 ], [ 0.9326699, 52.3356572 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 505261240, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.9222282, 52.3382235 ], [ 0.9224651, 52.33629 ], [ 0.9224182, 52.3362314 ] ] } }
+]
+}

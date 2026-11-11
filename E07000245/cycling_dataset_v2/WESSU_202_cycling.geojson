@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_202_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 502741698, "highway": "track", "name": "Galley Lane", "category": "Track", "bicycle": null, "access": "yes", "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5295138, 52.1099 ], [ 0.5294417, 52.1098842 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1321577620, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5210635, 52.1130848 ], [ 0.5244876, 52.1130708 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1321577618, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5252476, 52.1108782 ], [ 0.5252078, 52.1110835 ], [ 0.525112, 52.1114447 ], [ 0.5253352, 52.111631 ], [ 0.5255699, 52.1117698 ], [ 0.5250161, 52.1123938 ], [ 0.5244876, 52.1130708 ], [ 0.5244337, 52.1131398 ], [ 0.5238223, 52.1140549 ], [ 0.5239483, 52.1144591 ], [ 0.5216682, 52.1153739 ] ] } }
+]
+}

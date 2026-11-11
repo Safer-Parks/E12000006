@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EPPFO_214_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 235167215, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "concrete" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0476159, 51.6186748 ], [ 0.0468675, 51.6188819 ], [ 0.0467819, 51.6188703 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 925861658, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "concrete" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0467819, 51.6188703 ], [ 0.0456322, 51.6190595 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 362325981, "highway": "bridleway", "name": "Monkham's Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0320908, 51.6228482 ], [ 0.0322124, 51.6227981 ], [ 0.0325379, 51.6226641 ], [ 0.0328151, 51.6224255 ], [ 0.0330279, 51.6222202 ], [ 0.0332155, 51.6220695 ], [ 0.0340557, 51.6213948 ], [ 0.034954, 51.6205936 ], [ 0.0364458, 51.6193513 ], [ 0.0372994, 51.6186404 ], [ 0.0374136, 51.6185381 ], [ 0.0374662, 51.6184281 ], [ 0.0374604, 51.618235 ], [ 0.0374242, 51.6180017 ] ] } }
+]
+}

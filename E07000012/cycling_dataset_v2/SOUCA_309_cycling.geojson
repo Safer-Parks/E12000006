@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_309_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 31676576, "highway": "track", "name": "Bury Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0080176, 52.0870106 ], [ 0.0079393, 52.0869355 ], [ 0.007755, 52.0866644 ], [ 0.006834, 52.0852975 ], [ 0.0060169, 52.0835483 ], [ 0.0053261, 52.0826607 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 306778445, "highway": "cycleway", "name": "Meldreth Station Link", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0110924, 52.0884884 ], [ 0.0115847, 52.0878245 ], [ 0.0117464, 52.0876182 ], [ 0.0119701, 52.0874206 ], [ 0.0124171, 52.0867622 ], [ 0.0123306, 52.0866405 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 5106608, "highway": "cycleway", "name": "Meldreth Station Link", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0093391, 52.0909296 ], [ 0.0110924, 52.0884884 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 517077663, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": "yes", "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0185216, 52.0924591 ], [ 0.0189039, 52.0925662 ], [ 0.0202481, 52.0929336 ], [ 0.0254041, 52.0943804 ] ] } }
+]
+}

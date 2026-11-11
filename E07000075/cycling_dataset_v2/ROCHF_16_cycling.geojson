@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ROCHF_16_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1446597843, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.613267, 51.630044 ], [ 0.613475, 51.6297927 ], [ 0.6134931, 51.6297642 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1052384507, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.6133022, 51.6311798 ], [ 0.6133138, 51.631117 ], [ 0.6132379, 51.6310018 ], [ 0.6130426, 51.6307816 ], [ 0.6128889, 51.6305403 ] ] } }
+]
+}

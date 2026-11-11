@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASSU_266_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1329104745, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.4671613, 52.0605029 ], [ 1.466459, 52.0601252 ], [ 1.4660873, 52.059964 ], [ 1.4657415, 52.0597757 ], [ 1.4650117, 52.0591891 ], [ 1.4636943, 52.0581473 ], [ 1.4635216, 52.0579789 ], [ 1.463276, 52.0578977 ], [ 1.4623021, 52.057574 ], [ 1.4611622, 52.0571628 ], [ 1.4598007, 52.0567226 ], [ 1.4595318, 52.0566356 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1329135433, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.4698398, 52.0627353 ], [ 1.4698996, 52.0626082 ], [ 1.4699574, 52.0624717 ], [ 1.4699803, 52.062327 ], [ 1.4699389, 52.0621953 ], [ 1.4697713, 52.0620777 ], [ 1.4675298, 52.060701 ], [ 1.4671613, 52.0605029 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 108211322, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.4760203, 52.0664101 ], [ 1.475966, 52.0663202 ], [ 1.4754577, 52.0658347 ], [ 1.4751715, 52.0655956 ], [ 1.4748059, 52.0653601 ], [ 1.4742506, 52.0650849 ], [ 1.473913, 52.0649148 ], [ 1.4736527, 52.0647837 ], [ 1.4731839, 52.0646175 ], [ 1.4728859, 52.0645119 ], [ 1.472549, 52.0643595 ], [ 1.4725073, 52.0643406 ], [ 1.471924, 52.0641128 ], [ 1.470382, 52.0634586 ], [ 1.4701058, 52.0633285 ], [ 1.4699528, 52.0632326 ], [ 1.4698402, 52.0631025 ], [ 1.4697774, 52.0629611 ], [ 1.4697944, 52.0628556 ], [ 1.4698398, 52.0627353 ] ] } }
+]
+}

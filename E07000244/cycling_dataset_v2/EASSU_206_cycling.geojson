@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EASSU_206_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 119558300, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.3252704, 52.0874278 ], [ 1.3253733, 52.0874588 ], [ 1.3255072, 52.0874487 ], [ 1.3257869, 52.0873971 ], [ 1.3269848, 52.0869908 ], [ 1.327455, 52.0868788 ], [ 1.3291413, 52.0868919 ], [ 1.3291824, 52.0868717 ], [ 1.3293379, 52.0857004 ], [ 1.3296062, 52.0839053 ], [ 1.3296238, 52.0837522 ], [ 1.3300855, 52.0834535 ], [ 1.330923, 52.0829225 ], [ 1.3310175, 52.0823914 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 487695594, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.3221099, 52.0882615 ], [ 1.3221973, 52.0881696 ], [ 1.3223505, 52.0881312 ], [ 1.3225246, 52.0881136 ], [ 1.3231178, 52.0881194 ], [ 1.3237439, 52.0881214 ], [ 1.3250469, 52.0882208 ], [ 1.325153, 52.0874716 ], [ 1.3252704, 52.0874278 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 4965783, "highway": "pedestrian", "name": "Thoroughfare", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.3210709, 52.094603 ], [ 1.32104, 52.0945642 ], [ 1.3210289, 52.0945503 ], [ 1.3205326, 52.0941624 ], [ 1.3202557, 52.0939708 ], [ 1.3199639, 52.0937798 ], [ 1.3195888, 52.0935562 ], [ 1.3192754, 52.0933931 ], [ 1.319038, 52.093282 ], [ 1.3187777, 52.0931823 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 935402570, "highway": "cycleway", "name": "Deben Road", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.3217811, 52.095461 ], [ 1.321753, 52.0954671 ], [ 1.3216735, 52.0954831 ] ] } }
+]
+}

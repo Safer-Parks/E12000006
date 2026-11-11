@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_152_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1086954007, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.565219, 51.8518318 ], [ 0.5655299, 51.8522027 ], [ 0.5666387, 51.8524254 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 244480982, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5662358, 51.8529558 ], [ 0.5663105, 51.8528654 ], [ 0.5661925, 51.8527528 ], [ 0.5662407, 51.8526219 ], [ 0.5663447, 51.8525728 ], [ 0.5664808, 51.8525633 ], [ 0.5665655, 51.852539 ], [ 0.5666387, 51.8524254 ], [ 0.5667634, 51.8522017 ], [ 0.5669387, 51.8519135 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 244480616, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5664225, 51.8530047 ], [ 0.5662358, 51.8529558 ], [ 0.5654495, 51.8526931 ], [ 0.5650257, 51.8524827 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 216834332, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5533228, 51.8630366 ], [ 0.5532297, 51.8630101 ], [ 0.5531018, 51.8630234 ], [ 0.5530312, 51.8630481 ], [ 0.5529569, 51.863136 ], [ 0.552854, 51.86316 ], [ 0.5508366, 51.8635221 ] ] } }
+]
+}

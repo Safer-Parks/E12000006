@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EASHE_77_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1551740635, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1750371, 51.8352293 ], [ -0.1751506, 51.8355697 ], [ -0.1756423, 51.8361794 ], [ -0.1757737, 51.8364913 ], [ -0.1768046, 51.837429 ], [ -0.1782918, 51.8373039 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 43786514, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1790959, 51.8311476 ], [ -0.1791179, 51.8311921 ], [ -0.1787893, 51.8315203 ], [ -0.1784888, 51.8319047 ], [ -0.178341, 51.8323127 ], [ -0.1792878, 51.8327382 ], [ -0.1793271, 51.8327999 ], [ -0.179354, 51.832877 ], [ -0.1792198, 51.833119 ], [ -0.1792045, 51.8332976 ], [ -0.1792131, 51.8342104 ], [ -0.1792769, 51.8346277 ], [ -0.1793808, 51.8354734 ], [ -0.1792882, 51.8356714 ], [ -0.1790391, 51.8358028 ], [ -0.1788403, 51.8359076 ], [ -0.1785868, 51.836341 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1551740633, "highway": "path", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1815055, 51.8374341 ], [ -0.1801452, 51.8375925 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 532738893, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1785868, 51.836341 ], [ -0.1784296, 51.8366284 ], [ -0.1782677, 51.8369244 ], [ -0.1782462, 51.8371506 ], [ -0.1782918, 51.8373039 ], [ -0.1785064, 51.8376818 ], [ -0.1786552, 51.8379056 ], [ -0.1786391, 51.8382213 ], [ -0.1793191, 51.8395678 ], [ -0.1790187, 51.8401016 ], [ -0.1787124, 51.8406434 ] ] } }
+]
+}

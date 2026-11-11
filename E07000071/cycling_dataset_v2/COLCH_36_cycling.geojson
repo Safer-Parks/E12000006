@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "COLCH_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1061163770, "highway": "path", "name": "Spring Lane", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8494072, 51.9105665 ], [ 0.8494098, 51.9109478 ], [ 0.8494275, 51.9112625 ], [ 0.8493709, 51.9113117 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1540056231, "highway": "service", "name": "West Bergholt 21", "category": "Traffic-free road", "bicycle": "permissive", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8491116, 51.9151878 ], [ 0.8487709, 51.9153522 ] ] } }
+]
+}

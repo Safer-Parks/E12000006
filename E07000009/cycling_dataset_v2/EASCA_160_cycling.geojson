@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASCA_160_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1341902814, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2259653, 52.3484234 ], [ 0.2280467, 52.3474436 ], [ 0.228449, 52.3474108 ], [ 0.2285188, 52.3472961 ], [ 0.2300476, 52.3473944 ], [ 0.2312224, 52.3476402 ], [ 0.2322095, 52.3480302 ], [ 0.2327888, 52.3482595 ], [ 0.2326915, 52.3483882 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 23601855, "highway": "track", "name": "Mill Way", "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2188223, 52.3520626 ], [ 0.2186429, 52.3521243 ], [ 0.2182517, 52.3521982 ], [ 0.2152331, 52.3528388 ], [ 0.212312, 52.3534707 ], [ 0.2111133, 52.35373 ], [ 0.2064784, 52.354464 ], [ 0.2041613, 52.3503091 ], [ 0.2041382, 52.3502666 ] ] } }
+]
+}

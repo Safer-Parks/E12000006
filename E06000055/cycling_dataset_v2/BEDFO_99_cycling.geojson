@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BEDFO_99_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 238118181, "highway": "unclassified", "name": "Lovell Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5115849, 52.1653871 ], [ -0.5119839, 52.1654392 ], [ -0.5122971, 52.1654758 ], [ -0.5129441, 52.1655459 ], [ -0.5137423, 52.1656292 ], [ -0.5140104, 52.1656546 ], [ -0.5143897, 52.1656843 ], [ -0.5148911, 52.1657087 ], [ -0.5149594, 52.165712 ], [ -0.5151729, 52.165719 ], [ -0.515337, 52.1657232 ], [ -0.5154883, 52.165727 ], [ -0.5163237, 52.1657481 ], [ -0.5169855, 52.1657785 ], [ -0.5173527, 52.1658233 ], [ -0.5176809, 52.1658849 ], [ -0.5194712, 52.1662963 ], [ -0.5196089, 52.1663254 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 2110595, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5111199, 52.1815485 ], [ -0.5129025, 52.1802179 ], [ -0.5134323, 52.1796643 ], [ -0.5199412, 52.1766882 ], [ -0.5197154, 52.175708 ] ] } }
+]
+}

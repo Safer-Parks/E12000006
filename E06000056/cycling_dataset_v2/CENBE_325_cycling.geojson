@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CENBE_325_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1148054953, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.2971244, 52.0001569 ], [ -0.2970651, 52.0000964 ], [ -0.2969754, 52.0000473 ], [ -0.2967469, 51.9998154 ], [ -0.2965382, 51.9996188 ], [ -0.2964034, 51.9994982 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1148054952, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.2975369, 52.0006011 ], [ -0.2974699, 52.0004866 ], [ -0.2974772, 52.0003613 ], [ -0.2973948, 52.0002849 ], [ -0.2972376, 52.0002368 ], [ -0.2971497, 52.0002068 ], [ -0.2971244, 52.0001569 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1148054951, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.2982059, 52.001394 ], [ -0.2981014, 52.0012686 ], [ -0.2980799, 52.0012427 ], [ -0.2978606, 52.0009973 ], [ -0.2976034, 52.0006732 ], [ -0.2975369, 52.0006011 ] ] } }
+]
+}

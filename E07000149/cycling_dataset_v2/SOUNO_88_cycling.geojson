@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUNO_88_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 128809065, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.2105593, 52.6492393 ], [ 1.2107879, 52.6495914 ], [ 1.2109006, 52.6497591 ], [ 1.2109859, 52.6498398 ], [ 1.2110917, 52.6499227 ], [ 1.2111975, 52.6499931 ], [ 1.2112953, 52.6500248 ], [ 1.211593, 52.6501349 ], [ 1.2117163, 52.6501918 ], [ 1.2122308, 52.6503023 ], [ 1.2122827, 52.6503134 ], [ 1.2123319, 52.6503163 ], [ 1.212388, 52.6503098 ], [ 1.2127141, 52.6502254 ], [ 1.2132242, 52.6501024 ], [ 1.2133837, 52.6500666 ], [ 1.2134584, 52.6500489 ], [ 1.2134836, 52.6500858 ], [ 1.2136021, 52.6502917 ], [ 1.2137849, 52.6505502 ], [ 1.2141182, 52.6504733 ], [ 1.2141636, 52.6504628 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1385327858, "highway": "residential", "name": "Windmill Lane", "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.2219426, 52.6601187 ], [ 1.2228637, 52.6601935 ], [ 1.2230538, 52.6602053 ], [ 1.2237453, 52.6602564 ], [ 1.2239073, 52.6602702 ] ] } }
+]
+}

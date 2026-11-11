@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EPPFO_65_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 650812537, "highway": "cycleway", "name": "Chigwell Lane", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0821409, 51.6450582 ], [ 0.0825087, 51.6444406 ], [ 0.082526, 51.6443972 ], [ 0.0825325, 51.6443679 ], [ 0.0825221, 51.6443427 ], [ 0.082515, 51.6443062 ], [ 0.08264, 51.6439871 ], [ 0.0826596, 51.6439301 ], [ 0.0826428, 51.6437888 ], [ 0.0826633, 51.6435423 ], [ 0.0827158, 51.6433978 ], [ 0.0829212, 51.6434291 ] ] } }
+]
+}

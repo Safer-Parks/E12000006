@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "THURR_4_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1453773093, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.286173, 51.5138088 ], [ 0.2861725, 51.5137828 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 617955956, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "no", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2861768, 51.5138914 ], [ 0.2861745, 51.5138413 ], [ 0.286173, 51.5138088 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1453773092, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2861773, 51.5139003 ], [ 0.2861768, 51.5138914 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 617993352, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2874487, 51.520376 ], [ 0.287413, 51.5194534 ], [ 0.2874147, 51.5192866 ], [ 0.2874124, 51.519238 ], [ 0.2873803, 51.5185673 ], [ 0.2873516, 51.5178096 ], [ 0.2873442, 51.5176161 ], [ 0.2872993, 51.5161967 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1036074851, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2962878, 51.5218958 ], [ 0.2960546, 51.5215657 ], [ 0.2956979, 51.5210566 ], [ 0.2956242, 51.5209644 ], [ 0.295486, 51.5207546 ], [ 0.295042, 51.5201669 ], [ 0.2946813, 51.5195295 ], [ 0.2945616, 51.5192906 ], [ 0.2943195, 51.5188208 ], [ 0.2940566, 51.5182918 ], [ 0.2939491, 51.517954 ], [ 0.2939115, 51.517777 ], [ 0.2938869, 51.5176669 ], [ 0.2938847, 51.5176569 ], [ 0.2938474, 51.5174028 ], [ 0.2938064, 51.5172181 ], [ 0.2937533, 51.5169408 ], [ 0.2936778, 51.5165766 ] ] } }
+]
+}

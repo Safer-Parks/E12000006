@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FENLA_114_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 333578136, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1022758, 52.5575214 ], [ -0.1022297, 52.5573768 ], [ -0.1021903, 52.556758 ], [ -0.0961337, 52.5567947 ], [ -0.095915, 52.5567625 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 60589496, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1101951, 52.561577 ], [ -0.110311, 52.5615859 ], [ -0.1103386, 52.5615823 ], [ -0.1103686, 52.5615696 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 135332871, "highway": "track", "name": "Cow Way", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.0770229, 52.5640597 ], [ -0.0771337, 52.5640439 ], [ -0.0775342, 52.5640211 ], [ -0.0777916, 52.564042 ], [ -0.0806824, 52.5642828 ], [ -0.0809067, 52.5642073 ], [ -0.0816791, 52.5639473 ], [ -0.0833421, 52.562832 ], [ -0.0869041, 52.5609993 ], [ -0.0882527, 52.5604946 ], [ -0.0892552, 52.5602535 ], [ -0.0911033, 52.559876 ], [ -0.0923298, 52.5595255 ], [ -0.0926436, 52.5594435 ], [ -0.0928202, 52.5593854 ], [ -0.0929378, 52.5593079 ], [ -0.093031, 52.5591633 ], [ -0.0931188, 52.5590134 ] ] } }
+]
+}

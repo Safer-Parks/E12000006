@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_177_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 577469248, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.6119797, 52.438226 ], [ 0.6125522, 52.437801 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 119923431, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.6025484, 52.4418778 ], [ 0.6029736, 52.4420443 ], [ 0.603104, 52.442248 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 119923435, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.599157, 52.4424409 ], [ 0.5991869, 52.4424884 ], [ 0.5992037, 52.44254 ], [ 0.5992206, 52.4425835 ], [ 0.5992202, 52.4426573 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 127179964, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5992202, 52.4426573 ], [ 0.5991937, 52.4426674 ], [ 0.5991642, 52.4427338 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 42771130, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": "yes", "foot": "yes", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5985166, 52.4426349 ], [ 0.5973649, 52.4425609 ], [ 0.5944092, 52.4422542 ], [ 0.5924147, 52.4420014 ], [ 0.591949, 52.444172 ], [ 0.5911943, 52.4462616 ], [ 0.5908197, 52.4474918 ], [ 0.5908591, 52.447587 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 100990130, "highway": "track", "name": "Small Fen Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.6055028, 52.4458364 ], [ 0.6055541, 52.4459286 ], [ 0.6056075, 52.4460594 ], [ 0.6059008, 52.4467771 ], [ 0.605916, 52.4468166 ], [ 0.6060725, 52.4472218 ], [ 0.6066234, 52.4485459 ] ] } }
+]
+}

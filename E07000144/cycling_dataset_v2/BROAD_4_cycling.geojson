@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BROAD_4_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 952137921, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.43693, 52.633359 ], [ 1.4370542, 52.6333564 ], [ 1.4377229, 52.6334111 ], [ 1.4381918, 52.6334444 ], [ 1.4389222, 52.6334901 ], [ 1.4396893, 52.6335205 ], [ 1.4400407, 52.6335161 ], [ 1.4404569, 52.6335013 ], [ 1.4406984, 52.6335007 ], [ 1.440995, 52.6334921 ], [ 1.4416427, 52.633456 ], [ 1.442383, 52.6334058 ] ] } }
+]
+}

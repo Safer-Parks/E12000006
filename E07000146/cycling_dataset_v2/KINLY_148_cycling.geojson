@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "KINLY_148_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 438319730, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.223465, 52.7302266 ], [ 0.2234966, 52.730169 ], [ 0.2235384, 52.72986 ], [ 0.2234917, 52.7298297 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 51747550, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2231094, 52.7306453 ], [ 0.223465, 52.7302266 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 438319455, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2207266, 52.7330051 ], [ 0.2209012, 52.7327619 ], [ 0.2209218, 52.7327168 ], [ 0.2209221, 52.7326775 ], [ 0.2210784, 52.7324937 ], [ 0.2213386, 52.7322289 ], [ 0.2214539, 52.7321354 ], [ 0.2217811, 52.7318537 ], [ 0.22253, 52.7311686 ], [ 0.222798, 52.7309009 ], [ 0.2228732, 52.7308423 ] ] } }
+]
+}

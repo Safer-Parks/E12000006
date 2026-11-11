@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_378_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 60709385, "highway": "track", "name": "Chapel Road", "category": "Track", "bicycle": "permissive", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1785876, 52.4472249 ], [ -0.1787578, 52.4472661 ], [ -0.1788712, 52.4472879 ], [ -0.1799699, 52.4474079 ], [ -0.1817818, 52.4475969 ], [ -0.1843239, 52.447862 ], [ -0.1844339, 52.447858 ] ] } }
+]
+}

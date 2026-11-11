@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CENBE_22_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1009094033, "highway": "footway", "name": "Fairgreen Road Pathway", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4537433, 51.8626908 ], [ -0.4532533, 51.8628645 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1066679795, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4634982, 51.8640439 ], [ -0.4644835, 51.864451 ], [ -0.4656257, 51.8648954 ], [ -0.4664873, 51.8651874 ], [ -0.4671189, 51.8654844 ], [ -0.4681428, 51.8660374 ], [ -0.4684382, 51.8662501 ], [ -0.4688678, 51.8668564 ], [ -0.4690033, 51.8670751 ], [ -0.4695998, 51.8680377 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1484725210, "highway": "bridleway", "name": "Heritage Greenway", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "fine_gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4570313, 51.8728475 ], [ -0.4570444, 51.8727186 ], [ -0.4569757, 51.8720478 ], [ -0.4569076, 51.8716299 ], [ -0.4568214, 51.8712103 ], [ -0.4566325, 51.8704485 ], [ -0.4566586, 51.8699686 ], [ -0.4566233, 51.869597 ], [ -0.4565672, 51.8694433 ], [ -0.4565089, 51.8693963 ], [ -0.456465, 51.8693751 ], [ -0.4563796, 51.8693227 ], [ -0.4558993, 51.8685667 ], [ -0.4560436, 51.8685345 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1484725209, "highway": "bridleway", "name": "Heritage Greenway", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "fine_gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4573988, 51.8755057 ], [ -0.4561671, 51.8749879 ], [ -0.4563569, 51.8728008 ], [ -0.4570313, 51.8728475 ] ] } }
+]
+}

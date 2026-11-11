@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_108_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 158715504, "highway": "track", "name": "Oxford Lane", "category": "Track", "bicycle": null, "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5815312, 51.9805049 ], [ 0.582537, 51.9813215 ], [ 0.5826937, 51.9814542 ], [ 0.5827838, 51.9815261 ], [ 0.5827114, 51.9815722 ], [ 0.5824335, 51.9817715 ], [ 0.5822608, 51.9818913 ], [ 0.5825841, 51.9820444 ], [ 0.5828515, 51.9821752 ], [ 0.5831261, 51.9823065 ], [ 0.5837571, 51.9826305 ], [ 0.5841443, 51.9828486 ], [ 0.5844856, 51.9830688 ], [ 0.5847053, 51.9832203 ], [ 0.5851903, 51.9834263 ], [ 0.5855799, 51.983627 ], [ 0.5859539, 51.9839152 ], [ 0.5864313, 51.9840493 ], [ 0.586896, 51.9841668 ], [ 0.5872565, 51.9843121 ], [ 0.5874934, 51.9845361 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 656564804, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5907998, 51.9833388 ], [ 0.5909129, 51.9832531 ], [ 0.5914364, 51.9828595 ], [ 0.5916737, 51.9826524 ] ] } }
+]
+}

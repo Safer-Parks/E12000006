@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EASCA_96_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 25506135, "highway": "bridleway", "name": "Weirs Drove", "category": "Bridleway", "bicycle": null, "access": "yes", "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3205586, 52.2817029 ], [ 0.3211726, 52.2820073 ], [ 0.3215065, 52.2821947 ], [ 0.3217746, 52.282469 ], [ 0.3217949, 52.2824898 ], [ 0.3221364, 52.2829389 ], [ 0.3226283, 52.2832942 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 493503584, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": "yes", "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3226283, 52.2832942 ], [ 0.3227111, 52.2833539 ], [ 0.3228581, 52.2836058 ], [ 0.3229093, 52.2838977 ], [ 0.3229018, 52.2841986 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 25662660, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": "yes", "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3230394, 52.2850555 ], [ 0.3230944, 52.2851562 ], [ 0.3231161, 52.2852453 ], [ 0.323078, 52.2853234 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 25440322, "highway": "track", "name": "Howlem Balk", "category": "Track", "bicycle": "designated", "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3289922, 52.2900081 ], [ 0.3330775, 52.2886875 ], [ 0.3353073, 52.2878539 ], [ 0.3366226, 52.2874412 ], [ 0.337782, 52.287048 ], [ 0.3386268, 52.2867438 ], [ 0.3397467, 52.2863739 ] ] } }
+]
+}

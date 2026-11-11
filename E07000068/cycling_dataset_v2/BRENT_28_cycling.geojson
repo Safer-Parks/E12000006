@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BRENT_28_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1262836607, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3645032, 51.5947719 ], [ 0.3654762, 51.5981386 ], [ 0.3657205, 51.5990303 ], [ 0.3656666, 51.5992549 ], [ 0.3655365, 51.59952 ], [ 0.3655416, 51.5996818 ], [ 0.3655631, 51.5997515 ] ] } }
+]
+}

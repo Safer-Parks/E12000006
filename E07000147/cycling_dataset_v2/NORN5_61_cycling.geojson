@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORN5_61_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 110248118, "highway": "track", "name": "Common Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.99958, 52.9119563 ], [ 1.0002261, 52.9110674 ], [ 1.000623, 52.9105264 ], [ 1.0009502, 52.9100872 ], [ 1.0013311, 52.9095575 ], [ 1.0017764, 52.9089433 ], [ 1.0022321, 52.9083247 ], [ 1.0023233, 52.9082081 ], [ 1.0027705, 52.9076339 ], [ 1.0031658, 52.9071075 ], [ 1.0040885, 52.9058004 ], [ 1.0044855, 52.9053021 ], [ 1.0047752, 52.9048686 ], [ 1.0049138, 52.9046836 ], [ 1.0051963, 52.9043954 ], [ 1.0057638, 52.9038419 ], [ 1.0061524, 52.9034606 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 110249196, "highway": "track", "name": "Back Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.9965413, 52.9109725 ], [ 0.9961612, 52.9113799 ], [ 0.9958822, 52.9118975 ], [ 0.9958071, 52.912124 ], [ 0.9954278, 52.9135153 ], [ 0.9950953, 52.9145051 ], [ 0.994939, 52.9147955 ], [ 0.994473, 52.9162131 ], [ 0.9940009, 52.9175587 ], [ 0.9935932, 52.9188201 ], [ 0.9933143, 52.9194088 ], [ 0.9927456, 52.9200751 ], [ 0.9924826, 52.9202918 ] ] } }
+]
+}

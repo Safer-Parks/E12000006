@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORHE_135_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13988224, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.006408, 51.9999816 ], [ 0.0053189, 51.9996319 ], [ 0.0045595, 51.9994071 ], [ 0.0037334, 51.9991705 ], [ 0.0031817, 51.9989959 ], [ 0.0029164, 51.9988724 ], [ 0.0028093, 51.9984257 ], [ 0.0019838, 51.9982193 ], [ 0.0012756, 51.9981156 ], [ 0.001131, 51.9980335 ], [ 0.0010921, 51.997805 ], [ 0.0001368, 51.9978272 ], [ -0.0007149, 51.9978723 ], [ -0.0017269, 51.9979145 ], [ -0.002855, 51.9979447 ], [ -0.003374, 51.9979843 ], [ -0.0036208, 51.9979876 ], [ -0.0040982, 51.9979513 ], [ -0.0044201, 51.9978357 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 152041440, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.018875, 51.9978503 ], [ 0.0186625, 51.997693 ], [ 0.0172915, 51.996678 ], [ 0.0168075, 51.9964048 ], [ 0.0167606, 51.9963783 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 687957635, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "designated", "access": "private", "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.018875, 51.9978503 ], [ 0.0188536, 51.9978954 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 13988223, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.003713, 52.002786 ], [ 0.0038421, 52.0027034 ], [ 0.0039367, 52.0026152 ], [ 0.0043107, 52.002223 ], [ 0.0047337, 52.001738 ], [ 0.0051516, 52.0011911 ], [ 0.0055592, 52.0007629 ], [ 0.0059978, 52.000345 ], [ 0.006408, 51.9999816 ] ] } }
+]
+}

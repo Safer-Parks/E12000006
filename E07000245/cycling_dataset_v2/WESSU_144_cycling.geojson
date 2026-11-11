@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESSU_144_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 375223093, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5149572, 52.4127265 ], [ 0.5147803, 52.4127142 ], [ 0.513348, 52.4123118 ], [ 0.5119619, 52.411904 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 122816060, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.516844, 52.4225979 ], [ 0.5169147, 52.4225852 ], [ 0.5173067, 52.4219725 ] ] } }
+]
+}

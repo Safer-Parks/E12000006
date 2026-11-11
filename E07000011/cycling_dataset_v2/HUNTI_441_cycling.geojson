@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_441_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 252354283, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3870602, 52.3231904 ], [ -0.3899666, 52.323822 ], [ -0.3905728, 52.3242517 ], [ -0.3917701, 52.3247248 ], [ -0.3926821, 52.3252953 ], [ -0.3962238, 52.3266028 ], [ -0.3988941, 52.3275444 ], [ -0.4018016, 52.3289213 ], [ -0.4037671, 52.3295543 ], [ -0.4039477, 52.3295823 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 43153090, "highway": "track", "name": "Cockway Lane", "category": "Track", "bicycle": "designated", "access": "yes", "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4035581, 52.3316697 ], [ -0.3983425, 52.3326034 ], [ -0.3958191, 52.3330735 ], [ -0.3931064, 52.3334563 ], [ -0.3900781, 52.3336639 ], [ -0.3869262, 52.3342256 ], [ -0.3839901, 52.3348504 ], [ -0.3828925, 52.3351428 ], [ -0.3813541, 52.3357618 ], [ -0.3790229, 52.3366978 ] ] } }
+]
+}

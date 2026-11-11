@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORN5_23_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 125679420, "highway": "track", "name": "Malthouse Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.2494405, 52.8639157 ], [ 1.2496093, 52.8640312 ], [ 1.2498155, 52.8642225 ], [ 1.2499346, 52.8646541 ], [ 1.2499841, 52.86506 ], [ 1.2498674, 52.8657644 ], [ 1.2498155, 52.8667897 ], [ 1.2497896, 52.8674159 ], [ 1.2499063, 52.8679324 ], [ 1.2499841, 52.8687229 ], [ 1.2499705, 52.8691854 ] ] } }
+]
+}

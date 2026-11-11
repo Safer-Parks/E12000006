@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HUNTI_381_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 94587881, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1587961, 52.4485753 ], [ -0.1586658, 52.448519 ], [ -0.158466, 52.4484113 ], [ -0.1582446, 52.4482866 ], [ -0.1568104, 52.4475149 ], [ -0.1561219, 52.4471455 ], [ -0.1558802, 52.4470056 ], [ -0.1551871, 52.4465924 ], [ -0.1504833, 52.4439237 ] ] } }
+]
+}

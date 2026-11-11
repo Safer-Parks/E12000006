@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUCA_768_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 48978477, "highway": "cycleway", "name": "Mere Way", "category": "Dedicated cycleway", "bicycle": "yes", "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1423407, 52.2493695 ], [ 0.142356, 52.2493991 ], [ 0.1424574, 52.2495236 ], [ 0.1424864, 52.2495592 ], [ 0.1425052, 52.249593 ], [ 0.1425102, 52.249602 ], [ 0.1428796, 52.2501003 ], [ 0.1443672, 52.2518156 ], [ 0.1452633, 52.2527686 ], [ 0.1459293, 52.2534769 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 587143840, "highway": "cycleway", "name": "Mere Way", "category": "Dedicated cycleway", "bicycle": "yes", "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1459293, 52.2534769 ], [ 0.1459821, 52.2535245 ], [ 0.1470022, 52.2545846 ], [ 0.1486845, 52.2564025 ], [ 0.1498604, 52.2575689 ], [ 0.1501436, 52.2581836 ], [ 0.1503652, 52.2584513 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 587143841, "highway": "cycleway", "name": "Mere Way", "category": "Dedicated cycleway", "bicycle": "yes", "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1503652, 52.2584513 ], [ 0.1504175, 52.2585135 ], [ 0.1505002, 52.258612 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1252879975, "highway": "cycleway", "name": "Mere Way", "category": "Dedicated cycleway", "bicycle": "yes", "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1505002, 52.258612 ], [ 0.150629, 52.2587699 ] ] } }
+]
+}

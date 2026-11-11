@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASCA_73_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 254733320, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3831141, 52.1763697 ], [ 0.3869767, 52.175266 ], [ 0.3897674, 52.1753033 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1562100538, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3897674, 52.1753033 ], [ 0.3897156, 52.1753245 ], [ 0.3885341, 52.1753019 ], [ 0.3875866, 52.1753035 ], [ 0.3870133, 52.1753023 ], [ 0.3869113, 52.1753187 ], [ 0.3833118, 52.1763422 ], [ 0.383123, 52.1763954 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 254733327, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.39496, 52.1784671 ], [ 0.3961726, 52.1794784 ], [ 0.3977837, 52.1806717 ], [ 0.3980974, 52.1809316 ], [ 0.3997933, 52.1827254 ], [ 0.3999515, 52.1827824 ] ] } }
+]
+}

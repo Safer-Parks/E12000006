@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_209_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1104448521, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.7291958, 51.9696407 ], [ 0.7291702, 51.9699032 ], [ 0.7284535, 51.9702084 ], [ 0.727833, 51.970324 ], [ 0.7273087, 51.9704632 ], [ 0.7272414, 51.9705492 ], [ 0.7281986, 51.9713463 ], [ 0.7281649, 51.971453 ], [ 0.7275781, 51.9716693 ], [ 0.7274338, 51.9718352 ], [ 0.7269672, 51.9724249 ], [ 0.7271163, 51.9732161 ], [ 0.7273183, 51.9736724 ], [ 0.7274036, 51.9741093 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1416088665, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.7268298, 51.9747236 ], [ 0.7270015, 51.9745437 ], [ 0.7270668, 51.9744545 ], [ 0.7273775, 51.974247 ], [ 0.7274414, 51.9741665 ], [ 0.7274036, 51.9741093 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1416088959, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.7377462, 51.976017 ], [ 0.737659, 51.9758674 ], [ 0.7361629, 51.9762393 ], [ 0.7354748, 51.9764173 ], [ 0.7345367, 51.97666 ], [ 0.7345481, 51.9767272 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1416088960, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.7355043, 51.9764998 ], [ 0.7354748, 51.9764173 ] ] } }
+]
+}

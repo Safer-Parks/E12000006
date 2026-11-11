@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BEDFO_183_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 92245366, "highway": "track", "name": "Forty Foot Lane", "category": "Track", "bicycle": null, "access": "yes", "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.579236, 52.2496846 ], [ -0.5792033, 52.2496966 ], [ -0.5785848, 52.2499469 ], [ -0.5779786, 52.2501932 ], [ -0.5777748, 52.2502589 ], [ -0.5771847, 52.2503574 ], [ -0.575983, 52.250607 ], [ -0.5744542, 52.2508796 ], [ -0.5739231, 52.2509945 ], [ -0.5733384, 52.2511653 ], [ -0.5727698, 52.2513558 ], [ -0.5718363, 52.2517105 ], [ -0.5717643, 52.2517272 ], [ -0.5713696, 52.2518188 ], [ -0.5708707, 52.2519272 ], [ -0.5695887, 52.2521505 ], [ -0.5688269, 52.2523509 ], [ -0.5683924, 52.2524855 ], [ -0.5676487, 52.2527523 ] ] } }
+]
+}

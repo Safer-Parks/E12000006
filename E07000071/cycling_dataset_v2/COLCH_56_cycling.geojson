@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "COLCH_56_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 34351054, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "permissive", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.9990431, 51.7929022 ], [ 0.99676, 51.792812 ], [ 0.9958331, 51.7928279 ], [ 0.9948604, 51.7929131 ], [ 0.9947926, 51.7929193 ], [ 0.994397, 51.7929556 ], [ 0.9938305, 51.7930352 ], [ 0.9934382, 51.7930849 ], [ 0.9933465, 51.7930847 ], [ 0.9931723, 51.7930721 ], [ 0.9928513, 51.7930465 ], [ 0.9926625, 51.7930363 ] ] } }
+]
+}

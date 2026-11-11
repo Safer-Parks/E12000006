@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BABER_95_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 122160122, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.6646029, 52.0947642 ], [ 0.6646594, 52.0947115 ], [ 0.6647796, 52.094245 ], [ 0.6647957, 52.0942017 ], [ 0.6649464, 52.0938102 ], [ 0.6651377, 52.0933386 ], [ 0.6652046, 52.0931227 ], [ 0.6652061, 52.0928591 ], [ 0.6651851, 52.0927316 ], [ 0.665151, 52.0925847 ], [ 0.6650115, 52.0923162 ], [ 0.6648828, 52.0920698 ], [ 0.6646822, 52.0917684 ], [ 0.6644851, 52.091474 ], [ 0.6644549, 52.091423 ], [ 0.6644369, 52.0913784 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 122160085, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.6700765, 52.0987455 ], [ 0.6701084, 52.0987436 ], [ 0.6701419, 52.0987403 ], [ 0.6708058, 52.0986843 ] ] } }
+]
+}

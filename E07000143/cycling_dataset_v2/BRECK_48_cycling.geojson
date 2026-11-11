@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRECK_48_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 289372570, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8616619, 52.5777424 ], [ 0.8616673, 52.5775321 ], [ 0.8616753, 52.5772713 ], [ 0.8616301, 52.5771242 ], [ 0.8615577, 52.5769628 ], [ 0.8614879, 52.5768764 ], [ 0.8614473, 52.5768068 ], [ 0.8614339, 52.5767367 ], [ 0.8614366, 52.5764922 ], [ 0.8614473, 52.5761695 ], [ 0.8614124, 52.5757212 ], [ 0.8613695, 52.5753806 ], [ 0.8613239, 52.5750089 ], [ 0.8613109, 52.5748748 ], [ 0.86134, 52.574784 ], [ 0.8613534, 52.5746992 ], [ 0.8613615, 52.5746144 ], [ 0.8613159, 52.5745362 ], [ 0.861268, 52.5744966 ], [ 0.8611098, 52.5744461 ], [ 0.8610289, 52.5744107 ], [ 0.8609837, 52.5743434 ], [ 0.8607831, 52.5737571 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 289372568, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8616805, 52.5777992 ], [ 0.8616619, 52.5777424 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 289372555, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8621264, 52.5782349 ], [ 0.8619922, 52.5780646 ], [ 0.8618255, 52.5778858 ], [ 0.8617267, 52.5778299 ], [ 0.8616805, 52.5777992 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 274268971, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8621176, 52.5788208 ], [ 0.8621217, 52.5787011 ], [ 0.8621291, 52.5784851 ], [ 0.8621264, 52.5782349 ] ] } }
+]
+}

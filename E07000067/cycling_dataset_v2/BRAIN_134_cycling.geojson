@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BRAIN_134_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 71055411, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5738893, 51.9327249 ], [ 0.5715307, 51.931051 ], [ 0.5691579, 51.9293998 ], [ 0.5668821, 51.9281932 ], [ 0.5661297, 51.9277574 ], [ 0.5660601, 51.9276023 ], [ 0.5654725, 51.9272284 ], [ 0.5648812, 51.92677 ], [ 0.564389, 51.9264921 ], [ 0.5639451, 51.9262903 ], [ 0.5635615, 51.9260314 ], [ 0.5631912, 51.9258169 ], [ 0.5627716, 51.9255498 ], [ 0.5621147, 51.9251661 ] ] } }
+]
+}
