@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "KINLY_124_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 395796279, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2550621, 52.5626743 ], [ 0.2544184, 52.5628047 ], [ 0.2507491, 52.561409 ], [ 0.2441074, 52.5590033 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 470929665, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.24006, 52.5728786 ], [ 0.2413582, 52.5730872 ], [ 0.2415513, 52.5729764 ], [ 0.2416842, 52.571544 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 393886146, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.253617, 52.5713801 ], [ 0.2539091, 52.5709824 ], [ 0.2545632, 52.57044 ], [ 0.2553155, 52.5693353 ], [ 0.2561052, 52.5682902 ], [ 0.2568808, 52.5671372 ], [ 0.2571798, 52.5665777 ], [ 0.2574742, 52.565791 ], [ 0.2584881, 52.5660381 ] ] } }
+]
+}
